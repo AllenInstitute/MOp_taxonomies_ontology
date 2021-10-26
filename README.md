@@ -2,7 +2,7 @@
 Central location for versioning and sharing of taxonomy files relevant for ontology development as part of cell type cards.
 
 ## File summaries
-* **landingpage_dataset_info.csv**: additional information on the mouse landing page
+* **CCN202002013_landingpage_dataset_info.csv**: additional information on the mouse landing page
 * **Taxonomy Info Panel.csv**: general information for the mouse taxonomy
 * **cell_set_nomenclature_DATE.csv**: contains the current (as of listed date) cell sets for all BICCN taxonomies (and is a superset of what is in the folders)
 * **All Descriptions_Mouse.json**: contains short text descriptions and aliases used to populate cell type cards for the mouse.
