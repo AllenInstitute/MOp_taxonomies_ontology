@@ -11,4 +11,10 @@ Central location for versioning and sharing of taxonomy files relevant for ontol
 
 
 ## 
-**Reference files in GTF format for each taxonomy are too large to host here and can be found instead in this [shared Google Drive folder](https://drive.google.com/drive/folders/1rOYwiIxGgEolWsO3a-7g6rxUefsXIcKB).**
+**GTF reference files and cell x gene tables for each taxonomy are too large to host here and can be found instead in these shared Google Drive folders.** 
+
+[Reference Genome files](https://drive.google.com/drive/folders/1rOYwiIxGgEolWsO3a-7g6rxUefsXIcKB)
+
+
+
+[Cellxgene tables for mouse RNA-seq datasets](https://drive.google.com/drive/u/0/folders/1SHtu-NRbJQ364VsykH2sQbfmkysrwK_TrpXHnh21S7XdTDmuBV7IH0M5OL8oCq-yJkBYerhl)
