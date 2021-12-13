@@ -9,12 +9,3 @@ Central location for versioning and sharing of taxonomy files relevant for ontol
 * **FOLDER/(all files)**: scripts and associated output files generated for the three single-species taxonomies as described in [the nomenclature repo](https://github.com/AllenInstitute/nomenclature).  These files are used for ontology building and for the cell type taxonomy service
 
 
-
-## 
-**GTF reference files and cell x gene tables for each taxonomy are too large to host here and can be found instead in these shared Google Drive folders.** 
-
-[Reference Genome files](https://drive.google.com/drive/folders/1rOYwiIxGgEolWsO3a-7g6rxUefsXIcKB)
-
-
-
-[Cellxgene tables for mouse RNA-seq datasets](https://drive.google.com/drive/u/0/folders/1SHtu-NRbJQ364VsykH2sQbfmkysrwK_TrpXHnh21S7XdTDmuBV7IH0M5OL8oCq-yJkBYerhl)
