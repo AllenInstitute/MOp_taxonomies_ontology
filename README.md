@@ -1,5 +1,5 @@
 # MOp_taxonomies_ontology
-Central location for versioning and sharing of taxonomy files relevant for ontology development as part of cell type cards.
+Central location for versioning and sharing of taxonomy files relevant for ontology development as part of the first version of Cell Types Explorer, focusing on BICCN human, marmoset and mouse primary cortex mini-atlases.
 
 ## File summaries
 * **CCN202002013_landingpage_dataset_info.csv**: additional information on the mouse landing page
@@ -8,4 +8,5 @@ Central location for versioning and sharing of taxonomy files relevant for ontol
 * **All Descriptions_Mouse.json**: contains short text descriptions and aliases used to populate cell type cards for the mouse.
 * **FOLDER/(all files)**: scripts and associated output files generated for the three single-species taxonomies as described in [the nomenclature repo](https://github.com/AllenInstitute/nomenclature).  These files are used for ontology building and for the cell type taxonomy service
 
-
+## Level of Support
+We are currently only planning to update code and data in this repo if there are changes to the motor cortex taxonomies, but otherwise are not able to provide any guarantees of support. The community is welcome to submit issues, but you should not expect an active response.
