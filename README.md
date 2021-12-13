@@ -1,11 +1,12 @@
 # MOp_taxonomies_ontology
-This repository serves as a central location for versioning and sharing of taxonomy files relevant for development of the BDS Ontology as part of the first version of Cell Types Explorer, focusing on BICCN human, marmoset and mouse primary cortex mini-atlases.
+This repository serves as a central location for versioning and sharing of taxonomy files and code relevant for development of the BDS Ontology as part of the first version of Cell Types Explorer. Included here are taxonomy files for BICCN human, marmoset and mouse primary cortex mini-atlases.
 
 ## File summaries
 * **CCN202002013_landingpage_dataset_info.csv**: additional information on the mouse landing page
 * **Taxonomy Info Panel.csv**: general information for the mouse taxonomy
 * **cell_set_nomenclature_DATE.csv**: contains the current (as of listed date) cell sets for all BICCN taxonomies (and is a superset of what is in the folders)
 * **All Descriptions_Mouse.json**: contains short text descriptions and aliases used to populate cell type cards for the mouse.
+* **sunburst plots**: static images and HTML widgets of species taxonomies displayed as sunburst plots
 * **FOLDER/(all files)**: scripts and associated output files generated for the three single-species taxonomies as described in [the nomenclature repo](https://github.com/AllenInstitute/nomenclature).  These files are used for ontology building and for the cell type taxonomy service
 
 ## Level of Support
