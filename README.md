@@ -1,5 +1,5 @@
 # MOp_taxonomies_ontology
-Central location for versioning and sharing of taxonomy files relevant for ontology development as part of the first version of Cell Types Explorer, focusing on BICCN human, marmoset and mouse primary cortex mini-atlases.
+This repository serves as a central location for versioning and sharing of taxonomy files relevant for development of the BDS Ontology as part of the first version of Cell Types Explorer, focusing on BICCN human, marmoset and mouse primary cortex mini-atlases.
 
 ## File summaries
 * **CCN202002013_landingpage_dataset_info.csv**: additional information on the mouse landing page
@@ -10,3 +10,7 @@ Central location for versioning and sharing of taxonomy files relevant for ontol
 
 ## Level of Support
 We are currently only planning to update code and data in this repo if there are changes to the motor cortex taxonomies, but otherwise are not able to provide any guarantees of support. The community is welcome to submit issues, but you should not expect an active response.
+
+
+## License
+The license for this repo is available on Github at: https://github.com/AllenInstitute/MOp_taxonomies_ontology/blob/main/LICENSE.txt
