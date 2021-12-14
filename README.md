@@ -1,5 +1,5 @@
 # MOp_taxonomies_ontology
-This repository serves as a central location for versioning and sharing of taxonomy files and code relevant for development of the BDS Ontology as part of the first version of Cell Types Explorer. Included here are taxonomy files for BICCN human, marmoset and mouse primary cortex mini-atlases.
+This repository serves as a central location for versioning and sharing of taxonomy files and code relevant for development of the BDS Ontology as part of the first version of Cell Types Explorer and ongoing collaboration with EMBL-EBI. Included here are taxonomy files for BICCN human, marmoset and mouse primary cortex mini-atlases.
 
 ## File summaries
 * **CCN202002013_landingpage_dataset_info.csv**: additional information on the mouse landing page
