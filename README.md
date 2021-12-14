@@ -4,6 +4,7 @@ This repository serves as a central location for versioning and sharing of taxon
 ## File summaries
 * **CCN202002013_landingpage_dataset_info.csv**: additional information on the mouse landing page
 * **Taxonomy Info Panel.csv**: general information for the mouse taxonomy
+* **NSForestMarkers**: contains CSV files of gene symbols for cell type marker genes determined using the [NS-Forest algorithm](https://genome.cshlp.org/content/early/2021/06/04/gr.275569.121).
 * **cell_set_nomenclature_DATE.csv**: contains the current (as of listed date) cell sets for all BICCN taxonomies (and is a superset of what is in the folders)
 * **All Descriptions_Mouse.json**: contains short text descriptions and aliases used to populate cell type cards for the mouse.
 * **sunburst plots**: static images and HTML widgets of species taxonomies displayed as sunburst plots
