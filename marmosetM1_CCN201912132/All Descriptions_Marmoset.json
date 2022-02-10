@@ -1,597 +1,597 @@
 {
   "CS201912132_116": {
-    "Alias": ["GABAergic"],
-    "Accession": ["CS201912132_116"],
-    "Summary": ["GABAergic is: Neurons that use GABA as a neurotransmitter and which exert an inhibitory post-synaptic effect. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is NHS and ZNF385D (F-beta = 0.875), based on the NS Forest method of marker gene selection. GABAergic cells represent 15.79% of all cells collected in the marmoset M1 10Xv3 dataset. GABAergic cells have an average of 3552 genes detected, which is 72 less than the average for all cells (3624)."]
+    "aliases": ["GABAergic"],
+    "accession": ["CS201912132_116"],
+    "summary": ["GABAergic is: Neurons that use GABA as a neurotransmitter and which exert an inhibitory post-synaptic effect. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is NHS and ZNF385D (F-beta = 0.875), based on the NS Forest method of marker gene selection. GABAergic cells represent 15.79% of all cells collected in the marmoset M1 10Xv3 dataset. GABAergic cells have an average of 3552 genes detected, which is 72 less than the average for all cells (3624)."]
   },
   "CS201912132_117": {
-    "Alias": ["Glutamatergic"],
-    "Accession": ["CS201912132_117"],
-    "Summary": ["Glutamatergic is: Neurons that use glutamate as a neurotransmitter and exert an excitatory post-synaptic effect. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is SV2B and ARPP21 (F-beta = 0.952), based on the NS Forest method of marker gene selection. Glutamatergic cells represent 53.63% of all cells collected in the marmoset M1 10Xv3 dataset. Glutamatergic cells have an average of 4405 genes detected, which is 781 more than the average for all cells (3624)."]
+    "aliases": ["Glutamatergic"],
+    "accession": ["CS201912132_117"],
+    "summary": ["Glutamatergic is: Neurons that use glutamate as a neurotransmitter and exert an excitatory post-synaptic effect. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is SV2B and ARPP21 (F-beta = 0.952), based on the NS Forest method of marker gene selection. Glutamatergic cells represent 53.63% of all cells collected in the marmoset M1 10Xv3 dataset. Glutamatergic cells have an average of 4405 genes detected, which is 781 more than the average for all cells (3624)."]
   },
   "CS201912132_118": {
-    "Alias": ["Non-Neuronal"],
-    "Accession": ["CS201912132_118"],
-    "Summary": ["Non-Neuronal is: Non-neuronal cells of neuroectoderm origin (sometimes called glia<). The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is NCKAP5 and ZBTB20 (F-beta = 0.91), based on the NS Forest method of marker gene selection. Non-Neuronal cells represent 25.19% of all cells collected in the marmoset M1 10Xv3 dataset. Non-Neuronal cells have an average of 2316 genes detected, which is 1308 less than the average for all cells (3624)."]
+    "aliases": ["Non-Neuronal"],
+    "accession": ["CS201912132_118"],
+    "summary": ["Non-Neuronal is: Non-neuronal cells of neuroectoderm origin (sometimes called glia<). The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is NCKAP5 and ZBTB20 (F-beta = 0.91), based on the NS Forest method of marker gene selection. Non-Neuronal cells represent 25.19% of all cells collected in the marmoset M1 10Xv3 dataset. Non-Neuronal cells have an average of 2316 genes detected, which is 1308 less than the average for all cells (3624)."]
   },
   "CS201912132_115": {
-    "Alias": ["Non-Neural"],
-    "Accession": ["CS201912132_115"],
-    "Summary": ["Non-Neural is: Cells of mesoderm, neural crest or yolk sac origin (sometimes called glia).  Non-Neural cells represent 5.39% of all cells collected in the marmoset M1 10Xv3 dataset. Non-Neural cells have an average of 2172 genes detected, which is 1452 less than the average for all cells (3624)."]
+    "aliases": ["Non-Neural"],
+    "accession": ["CS201912132_115"],
+    "summary": ["Non-Neural is: Cells of mesoderm, neural crest or yolk sac origin (sometimes called glia).  Non-Neural cells represent 5.39% of all cells collected in the marmoset M1 10Xv3 dataset. Non-Neural cells have an average of 2172 genes detected, which is 1452 less than the average for all cells (3624)."]
   },
   "CS201912132_100": {
-    "Alias": ["L2/3 IT"],
-    "Accession": ["CS201912132_100"],
-    "Summary": ["L2/3 IT is: Layer 2/3 intratelencephalic-projecting. In Marmoset primary motor cortex (CCN201912132), L2/3 IT has 4 child types: Exc THEMIS ANO3, Exc RORB LOC108588466, Exc RORB SERPINE2 and Exc RORB NDST3. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CHST9 and FAM19A1 (F-beta = 0.838), based on the NS Forest method of marker gene selection. L2/3 IT cells represent 33.28% of all Glutamatergic cells collected in the marmoset M1 10Xv3 dataset. L2/3 IT cells have an average of 4353 genes detected, which is 52 less than the average for all Glutamatergic cells (4405)."]
+    "aliases": ["L2/3 IT"],
+    "accession": ["CS201912132_100"],
+    "summary": ["L2/3 IT is: Layer 2/3 intratelencephalic-projecting. In Marmoset primary motor cortex (CCN201912132), L2/3 IT has 4 child types: Exc THEMIS ANO3, Exc RORB LOC108588466, Exc RORB SERPINE2 and Exc RORB NDST3. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CHST9 and FAM19A1 (F-beta = 0.838), based on the NS Forest method of marker gene selection. L2/3 IT cells represent 33.28% of all Glutamatergic cells collected in the marmoset M1 10Xv3 dataset. L2/3 IT cells have an average of 4353 genes detected, which is 52 less than the average for all Glutamatergic cells (4405)."]
   },
   "CS201912132_101": {
-    "Alias": ["L5 IT"],
-    "Accession": ["CS201912132_101"],
-    "Summary": ["L5 IT is: Layer 5 intratelencephalic-projecting. In Marmoset primary motor cortex (CCN201912132), L5 IT has 10 child types: Exc RORB KNL1, Exc RORB CAV3, Exc RORB LOC108593203, Exc RORB ANKRD27, Exc RORB ACTA2, Exc RORB USH1C, Exc RORB SLC38A11, Exc RORB PPA2, Exc RORB CHGA and Exc RORB HACL1. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is HTR2A and POU6F2 and RORB (F-beta = 0.789), based on the NS Forest method of marker gene selection. L5 IT cells represent 42.6% of all Glutamatergic cells collected in the marmoset M1 10Xv3 dataset. L5 IT cells have an average of 4329 genes detected, which is 76 less than the average for all Glutamatergic cells (4405)."]
+    "aliases": ["L5 IT"],
+    "accession": ["CS201912132_101"],
+    "summary": ["L5 IT is: Layer 5 intratelencephalic-projecting. In Marmoset primary motor cortex (CCN201912132), L5 IT has 10 child types: Exc RORB KNL1, Exc RORB CAV3, Exc RORB LOC108593203, Exc RORB ANKRD27, Exc RORB ACTA2, Exc RORB USH1C, Exc RORB SLC38A11, Exc RORB PPA2, Exc RORB CHGA and Exc RORB HACL1. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is HTR2A and POU6F2 and RORB (F-beta = 0.789), based on the NS Forest method of marker gene selection. L5 IT cells represent 42.6% of all Glutamatergic cells collected in the marmoset M1 10Xv3 dataset. L5 IT cells have an average of 4329 genes detected, which is 76 less than the average for all Glutamatergic cells (4405)."]
   },
   "CS201912132_102": {
-    "Alias": ["L6 IT"],
-    "Accession": ["CS201912132_102"],
-    "Summary": ["L6 IT is: Layer 6 intratelencephalic-projecting. In Marmoset primary motor cortex (CCN201912132), L6 IT has 2 child types: Exc THEMIS KCTD16 and Exc THEMIS COBL. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CLSTN2 and HS3ST5 and PDE7B and SLIT3 (F-beta = 0.583), based on the NS Forest method of marker gene selection. L6 IT cells represent 8.98% of all Glutamatergic cells collected in the marmoset M1 10Xv3 dataset. L6 IT cells have an average of 4641 genes detected, which is 236 more than the average for all Glutamatergic cells (4405)."]
+    "aliases": ["L6 IT"],
+    "accession": ["CS201912132_102"],
+    "summary": ["L6 IT is: Layer 6 intratelencephalic-projecting. In Marmoset primary motor cortex (CCN201912132), L6 IT has 2 child types: Exc THEMIS KCTD16 and Exc THEMIS COBL. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CLSTN2 and HS3ST5 and PDE7B and SLIT3 (F-beta = 0.583), based on the NS Forest method of marker gene selection. L6 IT cells represent 8.98% of all Glutamatergic cells collected in the marmoset M1 10Xv3 dataset. L6 IT cells have an average of 4641 genes detected, which is 236 more than the average for all Glutamatergic cells (4405)."]
   },
   "CS201912132_103": {
-    "Alias": ["L5 ET"],
-    "Accession": ["CS201912132_103"],
-    "Summary": ["L5 ET is: Layer 5 extratelencephalic-projecting; also known as CF (corticofugal), PT (pyramidal tract), or SC (subcortical). In Marmoset primary motor cortex (CCN201912132), L5 ET has 3 child types: Exc THEMIS ARL13B, Exc FEZF2 PIEZO2 and Exc FEZF2 PDZRN4. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is FBN2 and PIEZO2 (F-beta = 0.635), based on the NS Forest method of marker gene selection. L5 ET cells represent 1.34% of all Glutamatergic cells collected in the marmoset M1 10Xv3 dataset. L5 ET cells have an average of 6375 genes detected, which is 1970 more than the average for all Glutamatergic cells (4405)."]
+    "aliases": ["L5 ET"],
+    "accession": ["CS201912132_103"],
+    "summary": ["L5 ET is: Layer 5 extratelencephalic-projecting; also known as CF (corticofugal), PT (pyramidal tract), or SC (subcortical). In Marmoset primary motor cortex (CCN201912132), L5 ET has 3 child types: Exc THEMIS ARL13B, Exc FEZF2 PIEZO2 and Exc FEZF2 PDZRN4. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is FBN2 and PIEZO2 (F-beta = 0.635), based on the NS Forest method of marker gene selection. L5 ET cells represent 1.34% of all Glutamatergic cells collected in the marmoset M1 10Xv3 dataset. L5 ET cells have an average of 6375 genes detected, which is 1970 more than the average for all Glutamatergic cells (4405)."]
   },
   "CS201912132_104": {
-    "Alias": ["L6 CT"],
-    "Accession": ["CS201912132_104"],
-    "Summary": ["L6 CT is: Layer 6 corticothalamic. In Marmoset primary motor cortex (CCN201912132), L6 CT has 2 child types: Exc FEZF2 RGS4 and Exc FEZF2 NRP1. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is HS3ST4 and SEMA3E (F-beta = 0.759), based on the NS Forest method of marker gene selection. L6 CT cells represent 7.36% of all Glutamatergic cells collected in the marmoset M1 10Xv3 dataset. L6 CT cells have an average of 4510 genes detected, which is 105 more than the average for all Glutamatergic cells (4405)."]
+    "aliases": ["L6 CT"],
+    "accession": ["CS201912132_104"],
+    "summary": ["L6 CT is: Layer 6 corticothalamic. In Marmoset primary motor cortex (CCN201912132), L6 CT has 2 child types: Exc FEZF2 RGS4 and Exc FEZF2 NRP1. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is HS3ST4 and SEMA3E (F-beta = 0.759), based on the NS Forest method of marker gene selection. L6 CT cells represent 7.36% of all Glutamatergic cells collected in the marmoset M1 10Xv3 dataset. L6 CT cells have an average of 4510 genes detected, which is 105 more than the average for all Glutamatergic cells (4405)."]
   },
   "CS201912132_75": {
-    "Alias": ["L6b"],
-    "Accession": ["CS201912132_75"],
-    "Summary": ["L6b is: Layer 6b neurons. In Marmoset primary motor cortex (CCN201912132), L6b has 1 child type: Exc FEZF2 ARSJ. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ARSJ and THSD4 (F-beta = 0.809), based on the NS Forest method of marker gene selection. L6b cells represent 2.2% of all Glutamatergic cells collected in the marmoset M1 10Xv3 dataset. L6b cells have an average of 4636 genes detected, which is 231 more than the average for all Glutamatergic cells (4405)."]
+    "aliases": ["L6b"],
+    "accession": ["CS201912132_75"],
+    "summary": ["L6b is: Layer 6b neurons. In Marmoset primary motor cortex (CCN201912132), L6b has 1 child type: Exc FEZF2 ARSJ. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ARSJ and THSD4 (F-beta = 0.809), based on the NS Forest method of marker gene selection. L6b cells represent 2.2% of all Glutamatergic cells collected in the marmoset M1 10Xv3 dataset. L6b cells have an average of 4636 genes detected, which is 231 more than the average for all Glutamatergic cells (4405)."]
   },
   "CS201912132_76": {
-    "Alias": ["L6 IT Car3"],
-    "Accession": ["CS201912132_76"],
-    "Summary": ["L6 IT Car3 is: Layer 6 intratelencephalic-projecting, Car3-expressing. In Marmoset primary motor cortex (CCN201912132), L6 IT Car3 has 1 child type: Exc THEMIS NTNG2. L6 IT Car3 includes the Patch-seq and connectivity types L6 IT_3. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is NTNG2 and PTPRU (F-beta = 0.814), based on the NS Forest method of marker gene selection. L6 IT Car3 cells represent 1.95% of all Glutamatergic cells collected in the marmoset M1 10Xv3 dataset. L6 IT Car3 cells have an average of 4363 genes detected, which is 42 less than the average for all Glutamatergic cells (4405)."]
+    "aliases": ["L6 IT Car3"],
+    "accession": ["CS201912132_76"],
+    "summary": ["L6 IT Car3 is: Layer 6 intratelencephalic-projecting, Car3-expressing. In Marmoset primary motor cortex (CCN201912132), L6 IT Car3 has 1 child type: Exc THEMIS NTNG2. L6 IT Car3 includes the Patch-seq and connectivity types L6 IT_3. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is NTNG2 and PTPRU (F-beta = 0.814), based on the NS Forest method of marker gene selection. L6 IT Car3 cells represent 1.95% of all Glutamatergic cells collected in the marmoset M1 10Xv3 dataset. L6 IT Car3 cells have an average of 4363 genes detected, which is 42 less than the average for all Glutamatergic cells (4405)."]
   },
   "CS201912132_1": {
-    "Alias": ["Sst Chodl"],
-    "Accession": ["CS201912132_1"],
-    "Summary": ["Sst Chodl is: Distinct Sst type expressing Chodl in mouse; the only reported long-range projecting GABAergic type. In Marmoset primary motor cortex (CCN201912132), Sst Chodl has 1 child type: Inh SST NPY. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CHODL and NOS1 (F-beta = 0.847), based on the NS Forest method of marker gene selection. Sst Chodl cells represent 0.00173706344852807% of all GABAergic cells collected in the marmoset M1 10Xv3 dataset. Sst Chodl cells have an average of 4411 genes detected, which is 859 more than the average for all GABAergic cells (3552)."]
+    "aliases": ["Sst Chodl"],
+    "accession": ["CS201912132_1"],
+    "summary": ["Sst Chodl is: Distinct Sst type expressing Chodl in mouse; the only reported long-range projecting GABAergic type. In Marmoset primary motor cortex (CCN201912132), Sst Chodl has 1 child type: Inh SST NPY. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CHODL and NOS1 (F-beta = 0.847), based on the NS Forest method of marker gene selection. Sst Chodl cells represent 0.00173706344852807% of all GABAergic cells collected in the marmoset M1 10Xv3 dataset. Sst Chodl cells have an average of 4411 genes detected, which is 859 more than the average for all GABAergic cells (3552)."]
   },
   "CS201912132_95": {
-    "Alias": ["Lamp5"],
-    "Accession": ["CS201912132_95"],
-    "Summary": ["Lamp5 is: CGE/PoA-derived GABAergic subclass typically expressing Lamp5. In Marmoset primary motor cortex (CCN201912132), Lamp5 has 6 child types: Inh LAMP5 COL5A2, Inh LAMP5 TOX2, Inh LAMP5 TRPC6, Inh LAMP5 WWP1, Inh LAMP5 LOC108591196 and Inh PAX6 HMBOX1. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is KIT (F-beta = 0.726), based on the NS Forest method of marker gene selection. Lamp5 cells represent 0.134668129456939% of all GABAergic cells collected in the marmoset M1 10Xv3 dataset. Lamp5 cells have an average of 3559 genes detected, which is 7 more than the average for all GABAergic cells (3552)."]
+    "aliases": ["Lamp5"],
+    "accession": ["CS201912132_95"],
+    "summary": ["Lamp5 is: CGE/PoA-derived GABAergic subclass typically expressing Lamp5. In Marmoset primary motor cortex (CCN201912132), Lamp5 has 6 child types: Inh LAMP5 COL5A2, Inh LAMP5 TOX2, Inh LAMP5 TRPC6, Inh LAMP5 WWP1, Inh LAMP5 LOC108591196 and Inh PAX6 HMBOX1. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is KIT (F-beta = 0.726), based on the NS Forest method of marker gene selection. Lamp5 cells represent 0.134668129456939% of all GABAergic cells collected in the marmoset M1 10Xv3 dataset. Lamp5 cells have an average of 3559 genes detected, which is 7 more than the average for all GABAergic cells (3552)."]
   },
   "CS201912132_96": {
-    "Alias": ["Sncg"],
-    "Accession": ["CS201912132_96"],
-    "Summary": ["Sncg is: CGE/PoA-derived GABAergic subclass typically expressing Sncg in mouse. In Marmoset primary motor cortex (CCN201912132), Sncg has 7 child types: Inh SNCG PLPPR1, Inh PAX6 ANKRD6, Inh VIP CYP19A1, Inh SNCG CNTN4, Inh PAX6 CDH4, Inh GAD1 PCP4 and Inh GAD1 LOC108589948. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ADARB2 and CNR1 and LUZP2 (F-beta = 0.655), based on the NS Forest method of marker gene selection. Sncg cells represent 0.0877674163466813% of all GABAergic cells collected in the marmoset M1 10Xv3 dataset. Sncg cells have an average of 3330 genes detected, which is 222 less than the average for all GABAergic cells (3552)."]
+    "aliases": ["Sncg"],
+    "accession": ["CS201912132_96"],
+    "summary": ["Sncg is: CGE/PoA-derived GABAergic subclass typically expressing Sncg in mouse. In Marmoset primary motor cortex (CCN201912132), Sncg has 7 child types: Inh SNCG PLPPR1, Inh PAX6 ANKRD6, Inh VIP CYP19A1, Inh SNCG CNTN4, Inh PAX6 CDH4, Inh GAD1 PCP4 and Inh GAD1 LOC108589948. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ADARB2 and CNR1 and LUZP2 (F-beta = 0.655), based on the NS Forest method of marker gene selection. Sncg cells represent 0.0877674163466813% of all GABAergic cells collected in the marmoset M1 10Xv3 dataset. Sncg cells have an average of 3330 genes detected, which is 222 less than the average for all GABAergic cells (3552)."]
   },
   "CS201912132_97": {
-    "Alias": ["Vip"],
-    "Accession": ["CS201912132_97"],
-    "Summary": ["Vip is: CGE/PoA-derived GABAergic subclass typically expressing Vip. In Marmoset primary motor cortex (CCN201912132), Vip has 11 child types: Inh VIP THSD7B, Inh VIP LOC100397259, Inh GAD1 NPSR1, Inh SNCG LOC108587895, Inh VIP LOC108589153, Inh VIP FIGN, Inh VIP GPR149, Inh VIP LOC108588071, Inh VIP VAT1L, Inh VIP CIT and Inh VIP LOC108588539. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is LOC103791740 and LOC108588071 (F-beta = 0.746), based on the NS Forest method of marker gene selection. Vip cells represent 0.239897604680929% of all GABAergic cells collected in the marmoset M1 10Xv3 dataset. Vip cells have an average of 3183 genes detected, which is 369 less than the average for all GABAergic cells (3552)."]
+    "aliases": ["Vip"],
+    "accession": ["CS201912132_97"],
+    "summary": ["Vip is: CGE/PoA-derived GABAergic subclass typically expressing Vip. In Marmoset primary motor cortex (CCN201912132), Vip has 11 child types: Inh VIP THSD7B, Inh VIP LOC100397259, Inh GAD1 NPSR1, Inh SNCG LOC108587895, Inh VIP LOC108589153, Inh VIP FIGN, Inh VIP GPR149, Inh VIP LOC108588071, Inh VIP VAT1L, Inh VIP CIT and Inh VIP LOC108588539. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is LOC103791740 and LOC108588071 (F-beta = 0.746), based on the NS Forest method of marker gene selection. Vip cells represent 0.239897604680929% of all GABAergic cells collected in the marmoset M1 10Xv3 dataset. Vip cells have an average of 3183 genes detected, which is 369 less than the average for all GABAergic cells (3552)."]
   },
   "CS201912132_26": {
-    "Alias": ["Meis2"],
-    "Accession": ["CS201912132_26"],
-    "Summary": ["Meis2 is: A very distinct GABAergic subclass expressing the gene Meis2 in mouse. In Marmoset primary motor cortex (CCN201912132), Meis2 has 1 child types:  and Inh PAX6 MEIS2. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is character(0) and character(0) and character(0) and character(0) and character(0) (F-beta = ), based on the NS Forest method of marker gene selection. Meis2 cells represent 0.00164563905650027% of all GABAergic cells collected in the marmoset M1 10Xv3 dataset. Meis2 cells have an average of 3193 genes detected, which is 359 less than the average for all GABAergic cells (3552)."]
+    "aliases": ["Meis2"],
+    "accession": ["CS201912132_26"],
+    "summary": ["Meis2 is: A very distinct GABAergic subclass expressing the gene Meis2 in mouse. In Marmoset primary motor cortex (CCN201912132), Meis2 has 1 child types:  and Inh PAX6 MEIS2. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is character(0) and character(0) and character(0) and character(0) and character(0) (F-beta = ), based on the NS Forest method of marker gene selection. Meis2 cells represent 0.00164563905650027% of all GABAergic cells collected in the marmoset M1 10Xv3 dataset. Meis2 cells have an average of 3193 genes detected, which is 359 less than the average for all GABAergic cells (3552)."]
   },
   "CS201912132_98": {
-    "Alias": ["Sst"],
-    "Accession": ["CS201912132_98"],
-    "Summary": ["Sst is: MGE-derived GABAergic subclass typically expressing Sst. In Marmoset primary motor cortex (CCN201912132), Sst has 15 child types: Inh SST LOC108589054, Inh SST LOC108588801, Inh SST LOC103788138, Inh SST MPP5, Inh SST KIRREL3, Inh SST LOC103788660, Inh SST CBLN4, Inh SST ABI3BP, Inh SST TMEFF2, Inh SST P4HA1, Inh SST LTBP1, Inh SST AIM1, Inh SST VAPA, Inh SST PCSK5 and Inh PVALB SST LRRC6. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ABI3BP and NXPH1 (F-beta = 0.778), based on the NS Forest method of marker gene selection. Sst cells represent 0.288809654415798% of all GABAergic cells collected in the marmoset M1 10Xv3 dataset. Sst cells have an average of 3298 genes detected, which is 254 less than the average for all GABAergic cells (3552)."]
+    "aliases": ["Sst"],
+    "accession": ["CS201912132_98"],
+    "summary": ["Sst is: MGE-derived GABAergic subclass typically expressing Sst. In Marmoset primary motor cortex (CCN201912132), Sst has 15 child types: Inh SST LOC108589054, Inh SST LOC108588801, Inh SST LOC103788138, Inh SST MPP5, Inh SST KIRREL3, Inh SST LOC103788660, Inh SST CBLN4, Inh SST ABI3BP, Inh SST TMEFF2, Inh SST P4HA1, Inh SST LTBP1, Inh SST AIM1, Inh SST VAPA, Inh SST PCSK5 and Inh PVALB SST LRRC6. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ABI3BP and NXPH1 (F-beta = 0.778), based on the NS Forest method of marker gene selection. Sst cells represent 0.288809654415798% of all GABAergic cells collected in the marmoset M1 10Xv3 dataset. Sst cells have an average of 3298 genes detected, which is 254 less than the average for all GABAergic cells (3552)."]
   },
   "CS201912132_99": {
-    "Alias": ["Pvalb"],
-    "Accession": ["CS201912132_99"],
-    "Summary": ["Pvalb is: MGE-derived GABAergic subclass typically expressing Pvalb; includes basket and chandelier cells. In Marmoset primary motor cortex (CCN201912132), Pvalb has 11 child types: Inh PVALB OTOGL, Inh PVALB LOC103790362, Inh PVALB OSBP2, Inh PVALB LOC103789439, Inh PVALB GSTK1, Inh PVALB C8H7orf62, Inh PVALB ADAMTS3, Inh PVALB SST EYS, Inh PVALB PCDH19, Inh PVALB KLHL29 and Inh PVALB FAM19A4. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is BTBD11 and LOC100392984 (F-beta = 0.779), based on the NS Forest method of marker gene selection. Pvalb cells represent 0.245474492594624% of all GABAergic cells collected in the marmoset M1 10Xv3 dataset. Pvalb cells have an average of 4283 genes detected, which is 731 more than the average for all GABAergic cells (3552)."]
+    "aliases": ["Pvalb"],
+    "accession": ["CS201912132_99"],
+    "summary": ["Pvalb is: MGE-derived GABAergic subclass typically expressing Pvalb; includes basket and chandelier cells. In Marmoset primary motor cortex (CCN201912132), Pvalb has 11 child types: Inh PVALB OTOGL, Inh PVALB LOC103790362, Inh PVALB OSBP2, Inh PVALB LOC103789439, Inh PVALB GSTK1, Inh PVALB C8H7orf62, Inh PVALB ADAMTS3, Inh PVALB SST EYS, Inh PVALB PCDH19, Inh PVALB KLHL29 and Inh PVALB FAM19A4. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is BTBD11 and LOC100392984 (F-beta = 0.779), based on the NS Forest method of marker gene selection. Pvalb cells represent 0.245474492594624% of all GABAergic cells collected in the marmoset M1 10Xv3 dataset. Pvalb cells have an average of 4283 genes detected, which is 731 more than the average for all GABAergic cells (3552)."]
   },
   "CS201912132_1.1": {
-    "Alias": ["Sst Chodl"],
-    "Accession": ["CS201912132_1"],
-    "Summary": ["Sst Chodl is: Distinct Sst type expressing Chodl in mouse; the only reported long-range projecting GABAergic type. In Marmoset primary motor cortex (CCN201912132), Sst Chodl has 1 child type: Inh SST NPY. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CHODL and NOS1 (F-beta = 0.847), based on the NS Forest method of marker gene selection. Sst Chodl cells represent 0.17% of all GABAergic cells collected in the marmoset M1 10Xv3 dataset. Sst Chodl cells have an average of 4411 genes detected, which is 859 more than the average for all GABAergic cells (3552)."]
+    "aliases": ["Sst Chodl"],
+    "accession": ["CS201912132_1"],
+    "summary": ["Sst Chodl is: Distinct Sst type expressing Chodl in mouse; the only reported long-range projecting GABAergic type. In Marmoset primary motor cortex (CCN201912132), Sst Chodl has 1 child type: Inh SST NPY. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CHODL and NOS1 (F-beta = 0.847), based on the NS Forest method of marker gene selection. Sst Chodl cells represent 0.17% of all GABAergic cells collected in the marmoset M1 10Xv3 dataset. Sst Chodl cells have an average of 4411 genes detected, which is 859 more than the average for all GABAergic cells (3552)."]
   },
   "CS201912132_95.1": {
-    "Alias": ["Lamp5"],
-    "Accession": ["CS201912132_95"],
-    "Summary": ["Lamp5 is: CGE/PoA-derived GABAergic subclass typically expressing Lamp5. In Marmoset primary motor cortex (CCN201912132), Lamp5 has 6 child types: Inh LAMP5 COL5A2, Inh LAMP5 TOX2, Inh LAMP5 TRPC6, Inh LAMP5 WWP1, Inh LAMP5 LOC108591196 and Inh PAX6 HMBOX1. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is KIT (F-beta = 0.726), based on the NS Forest method of marker gene selection. Lamp5 cells represent 13.47% of all GABAergic cells collected in the marmoset M1 10Xv3 dataset. Lamp5 cells have an average of 3559 genes detected, which is 7 more than the average for all GABAergic cells (3552)."]
+    "aliases": ["Lamp5"],
+    "accession": ["CS201912132_95"],
+    "summary": ["Lamp5 is: CGE/PoA-derived GABAergic subclass typically expressing Lamp5. In Marmoset primary motor cortex (CCN201912132), Lamp5 has 6 child types: Inh LAMP5 COL5A2, Inh LAMP5 TOX2, Inh LAMP5 TRPC6, Inh LAMP5 WWP1, Inh LAMP5 LOC108591196 and Inh PAX6 HMBOX1. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is KIT (F-beta = 0.726), based on the NS Forest method of marker gene selection. Lamp5 cells represent 13.47% of all GABAergic cells collected in the marmoset M1 10Xv3 dataset. Lamp5 cells have an average of 3559 genes detected, which is 7 more than the average for all GABAergic cells (3552)."]
   },
   "CS201912132_96.1": {
-    "Alias": ["Sncg"],
-    "Accession": ["CS201912132_96"],
-    "Summary": ["Sncg is: CGE/PoA-derived GABAergic subclass typically expressing Sncg in mouse. In Marmoset primary motor cortex (CCN201912132), Sncg has 7 child types: Inh SNCG PLPPR1, Inh PAX6 ANKRD6, Inh VIP CYP19A1, Inh SNCG CNTN4, Inh PAX6 CDH4, Inh GAD1 PCP4 and Inh GAD1 LOC108589948. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ADARB2 and CNR1 and LUZP2 (F-beta = 0.655), based on the NS Forest method of marker gene selection. Sncg cells represent 8.78% of all GABAergic cells collected in the marmoset M1 10Xv3 dataset. Sncg cells have an average of 3330 genes detected, which is 222 less than the average for all GABAergic cells (3552)."]
+    "aliases": ["Sncg"],
+    "accession": ["CS201912132_96"],
+    "summary": ["Sncg is: CGE/PoA-derived GABAergic subclass typically expressing Sncg in mouse. In Marmoset primary motor cortex (CCN201912132), Sncg has 7 child types: Inh SNCG PLPPR1, Inh PAX6 ANKRD6, Inh VIP CYP19A1, Inh SNCG CNTN4, Inh PAX6 CDH4, Inh GAD1 PCP4 and Inh GAD1 LOC108589948. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ADARB2 and CNR1 and LUZP2 (F-beta = 0.655), based on the NS Forest method of marker gene selection. Sncg cells represent 8.78% of all GABAergic cells collected in the marmoset M1 10Xv3 dataset. Sncg cells have an average of 3330 genes detected, which is 222 less than the average for all GABAergic cells (3552)."]
   },
   "CS201912132_97.1": {
-    "Alias": ["Vip"],
-    "Accession": ["CS201912132_97"],
-    "Summary": ["Vip is: CGE/PoA-derived GABAergic subclass typically expressing Vip. In Marmoset primary motor cortex (CCN201912132), Vip has 11 child types: Inh VIP THSD7B, Inh VIP LOC100397259, Inh GAD1 NPSR1, Inh SNCG LOC108587895, Inh VIP LOC108589153, Inh VIP FIGN, Inh VIP GPR149, Inh VIP LOC108588071, Inh VIP VAT1L, Inh VIP CIT and Inh VIP LOC108588539. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is LOC103791740 and LOC108588071 (F-beta = 0.746), based on the NS Forest method of marker gene selection. Vip cells represent 23.99% of all GABAergic cells collected in the marmoset M1 10Xv3 dataset. Vip cells have an average of 3183 genes detected, which is 369 less than the average for all GABAergic cells (3552)."]
+    "aliases": ["Vip"],
+    "accession": ["CS201912132_97"],
+    "summary": ["Vip is: CGE/PoA-derived GABAergic subclass typically expressing Vip. In Marmoset primary motor cortex (CCN201912132), Vip has 11 child types: Inh VIP THSD7B, Inh VIP LOC100397259, Inh GAD1 NPSR1, Inh SNCG LOC108587895, Inh VIP LOC108589153, Inh VIP FIGN, Inh VIP GPR149, Inh VIP LOC108588071, Inh VIP VAT1L, Inh VIP CIT and Inh VIP LOC108588539. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is LOC103791740 and LOC108588071 (F-beta = 0.746), based on the NS Forest method of marker gene selection. Vip cells represent 23.99% of all GABAergic cells collected in the marmoset M1 10Xv3 dataset. Vip cells have an average of 3183 genes detected, which is 369 less than the average for all GABAergic cells (3552)."]
   },
   "CS201912132_26.1": {
-    "Alias": ["Meis2"],
-    "Accession": ["CS201912132_26"],
-    "Summary": ["Meis2 is: A very distinct GABAergic subclass expressing the gene Meis2 in mouse. In Marmoset primary motor cortex (CCN201912132), Meis2 has 1 child types:  and Inh PAX6 MEIS2. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is PBX3 (F-beta = 0.72), based on the NS Forest method of marker gene selection. Meis2 cells represent 0.16% of all GABAergic cells collected in the marmoset M1 10Xv3 dataset. Meis2 cells have an average of 3193 genes detected, which is 359 less than the average for all GABAergic cells (3552)."]
+    "aliases": ["Meis2"],
+    "accession": ["CS201912132_26"],
+    "summary": ["Meis2 is: A very distinct GABAergic subclass expressing the gene Meis2 in mouse. In Marmoset primary motor cortex (CCN201912132), Meis2 has 1 child types:  and Inh PAX6 MEIS2. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is PBX3 (F-beta = 0.72), based on the NS Forest method of marker gene selection. Meis2 cells represent 0.16% of all GABAergic cells collected in the marmoset M1 10Xv3 dataset. Meis2 cells have an average of 3193 genes detected, which is 359 less than the average for all GABAergic cells (3552)."]
   },
   "CS201912132_98.1": {
-    "Alias": ["Sst"],
-    "Accession": ["CS201912132_98"],
-    "Summary": ["Sst is: MGE-derived GABAergic subclass typically expressing Sst. In Marmoset primary motor cortex (CCN201912132), Sst has 15 child types: Inh SST LOC108589054, Inh SST LOC108588801, Inh SST LOC103788138, Inh SST MPP5, Inh SST KIRREL3, Inh SST LOC103788660, Inh SST CBLN4, Inh SST ABI3BP, Inh SST TMEFF2, Inh SST P4HA1, Inh SST LTBP1, Inh SST AIM1, Inh SST VAPA, Inh SST PCSK5 and Inh PVALB SST LRRC6. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ABI3BP and NXPH1 (F-beta = 0.778), based on the NS Forest method of marker gene selection. Sst cells represent 28.88% of all GABAergic cells collected in the marmoset M1 10Xv3 dataset. Sst cells have an average of 3298 genes detected, which is 254 less than the average for all GABAergic cells (3552)."]
+    "aliases": ["Sst"],
+    "accession": ["CS201912132_98"],
+    "summary": ["Sst is: MGE-derived GABAergic subclass typically expressing Sst. In Marmoset primary motor cortex (CCN201912132), Sst has 15 child types: Inh SST LOC108589054, Inh SST LOC108588801, Inh SST LOC103788138, Inh SST MPP5, Inh SST KIRREL3, Inh SST LOC103788660, Inh SST CBLN4, Inh SST ABI3BP, Inh SST TMEFF2, Inh SST P4HA1, Inh SST LTBP1, Inh SST AIM1, Inh SST VAPA, Inh SST PCSK5 and Inh PVALB SST LRRC6. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ABI3BP and NXPH1 (F-beta = 0.778), based on the NS Forest method of marker gene selection. Sst cells represent 28.88% of all GABAergic cells collected in the marmoset M1 10Xv3 dataset. Sst cells have an average of 3298 genes detected, which is 254 less than the average for all GABAergic cells (3552)."]
   },
   "CS201912132_99.1": {
-    "Alias": ["Pvalb"],
-    "Accession": ["CS201912132_99"],
-    "Summary": ["Pvalb is: MGE-derived GABAergic subclass typically expressing Pvalb; includes basket and chandelier cells. In Marmoset primary motor cortex (CCN201912132), Pvalb has 11 child types: Inh PVALB OTOGL, Inh PVALB LOC103790362, Inh PVALB OSBP2, Inh PVALB LOC103789439, Inh PVALB GSTK1, Inh PVALB C8H7orf62, Inh PVALB ADAMTS3, Inh PVALB SST EYS, Inh PVALB PCDH19, Inh PVALB KLHL29 and Inh PVALB FAM19A4. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is BTBD11 and LOC100392984 (F-beta = 0.779), based on the NS Forest method of marker gene selection. Pvalb cells represent 24.55% of all GABAergic cells collected in the marmoset M1 10Xv3 dataset. Pvalb cells have an average of 4283 genes detected, which is 731 more than the average for all GABAergic cells (3552)."]
+    "aliases": ["Pvalb"],
+    "accession": ["CS201912132_99"],
+    "summary": ["Pvalb is: MGE-derived GABAergic subclass typically expressing Pvalb; includes basket and chandelier cells. In Marmoset primary motor cortex (CCN201912132), Pvalb has 11 child types: Inh PVALB OTOGL, Inh PVALB LOC103790362, Inh PVALB OSBP2, Inh PVALB LOC103789439, Inh PVALB GSTK1, Inh PVALB C8H7orf62, Inh PVALB ADAMTS3, Inh PVALB SST EYS, Inh PVALB PCDH19, Inh PVALB KLHL29 and Inh PVALB FAM19A4. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is BTBD11 and LOC100392984 (F-beta = 0.779), based on the NS Forest method of marker gene selection. Pvalb cells represent 24.55% of all GABAergic cells collected in the marmoset M1 10Xv3 dataset. Pvalb cells have an average of 4283 genes detected, which is 731 more than the average for all GABAergic cells (3552)."]
   },
   "CS201912132_107": {
-    "Alias": ["Endo"],
-    "Accession": ["CS201912132_107"],
-    "Summary": ["Endo is: Endothelial cells (often abbreviated Endo). In Marmoset primary motor cortex (CCN201912132), Endo has 3 child types: Endo NOSTRIN IL1R1, Endo NOSTRIN CXCL12 and Glia SLC1A3 FBLN5. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CLDN5 and MECOM (F-beta = 0.908), based on the NS Forest method of marker gene selection. Endo cells represent 49.08% of all Non-Neural cells collected in the marmoset M1 10Xv3 dataset. Endo cells have an average of 2306 genes detected, which is 134 more than the average for all Non-Neural cells (2172)."]
+    "aliases": ["Endo"],
+    "accession": ["CS201912132_107"],
+    "summary": ["Endo is: Endothelial cells (often abbreviated Endo). In Marmoset primary motor cortex (CCN201912132), Endo has 3 child types: Endo NOSTRIN IL1R1, Endo NOSTRIN CXCL12 and Glia SLC1A3 FBLN5. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CLDN5 and MECOM (F-beta = 0.908), based on the NS Forest method of marker gene selection. Endo cells represent 49.08% of all Non-Neural cells collected in the marmoset M1 10Xv3 dataset. Endo cells have an average of 2306 genes detected, which is 134 more than the average for all Non-Neural cells (2172)."]
   },
   "CS201912132_108": {
-    "Alias": ["Peri"],
-    "Accession": ["CS201912132_108"],
-    "Summary": ["Peri is: pericytes. In Marmoset primary motor cortex (CCN201912132), Peri has 2 child types: Peri SLC1A3 CHST3 and Peri SLC1A3 EPSTI1. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CPM and LOC100405319 (F-beta = 0.723), based on the NS Forest method of marker gene selection. Peri cells represent 10.03% of all Non-Neural cells collected in the marmoset M1 10Xv3 dataset. Peri cells have an average of 1768 genes detected, which is 404 less than the average for all Non-Neural cells (2172)."]
+    "aliases": ["Peri"],
+    "accession": ["CS201912132_108"],
+    "summary": ["Peri is: pericytes. In Marmoset primary motor cortex (CCN201912132), Peri has 2 child types: Peri SLC1A3 CHST3 and Peri SLC1A3 EPSTI1. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CPM and LOC100405319 (F-beta = 0.723), based on the NS Forest method of marker gene selection. Peri cells represent 10.03% of all Non-Neural cells collected in the marmoset M1 10Xv3 dataset. Peri cells have an average of 1768 genes detected, which is 404 less than the average for all Non-Neural cells (2172)."]
   },
   "CS201912132_109": {
-    "Alias": ["VLMC"],
-    "Accession": ["CS201912132_109"],
-    "Summary": ["VLMC is: Vascular leptomeningeal cells. In Marmoset primary motor cortex (CCN201912132), VLMC has 4 child types: VLMC PDGFRA C7, VLMC SLC1A3 CEMIP, VLMC SLC1A3 SLC13A3 and VLMC SLC1A3 SLC47A1. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is SLC47A1 (F-beta = 0.791), based on the NS Forest method of marker gene selection. VLMC cells represent 12.39% of all Non-Neural cells collected in the marmoset M1 10Xv3 dataset. VLMC cells have an average of 2917 genes detected, which is 745 more than the average for all Non-Neural cells (2172)."]
+    "aliases": ["VLMC"],
+    "accession": ["CS201912132_109"],
+    "summary": ["VLMC is: Vascular leptomeningeal cells. In Marmoset primary motor cortex (CCN201912132), VLMC has 4 child types: VLMC PDGFRA C7, VLMC SLC1A3 CEMIP, VLMC SLC1A3 SLC13A3 and VLMC SLC1A3 SLC47A1. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is SLC47A1 (F-beta = 0.791), based on the NS Forest method of marker gene selection. VLMC cells represent 12.39% of all Non-Neural cells collected in the marmoset M1 10Xv3 dataset. VLMC cells have an average of 2917 genes detected, which is 745 more than the average for all Non-Neural cells (2172)."]
   },
   "CS201912132_94": {
-    "Alias": ["Micro-PVM"],
-    "Accession": ["CS201912132_94"],
-    "Summary": ["Micro-PVM is: Immune cells including microglia and/or PVM cells. In Marmoset primary motor cortex (CCN201912132), Micro-PVM has 1 child type: Micro TYROBP LOC103788313. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is FYB and LOC103788313 (F-beta = 0.924), based on the NS Forest method of marker gene selection. Micro-PVM cells represent 28.5% of all Non-Neural cells collected in the marmoset M1 10Xv3 dataset. Micro-PVM cells have an average of 1760 genes detected, which is 412 less than the average for all Non-Neural cells (2172)."]
+    "aliases": ["Micro-PVM"],
+    "accession": ["CS201912132_94"],
+    "summary": ["Micro-PVM is: Immune cells including microglia and/or PVM cells. In Marmoset primary motor cortex (CCN201912132), Micro-PVM has 1 child type: Micro TYROBP LOC103788313. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is FYB and LOC103788313 (F-beta = 0.924), based on the NS Forest method of marker gene selection. Micro-PVM cells represent 28.5% of all Non-Neural cells collected in the marmoset M1 10Xv3 dataset. Micro-PVM cells have an average of 1760 genes detected, which is 412 less than the average for all Non-Neural cells (2172)."]
   },
   "CS201912132_105": {
-    "Alias": ["Oligo"],
-    "Accession": ["CS201912132_105"],
-    "Summary": ["Oligo is: Oligodendrocytes (often abbreviated Oligo). In Marmoset primary motor cortex (CCN201912132) Oligo has 3 child types: Oligo SLC1A3 LOC103793418,  Oligo OPALIN LOC103790018 and Oligo OPALIN MOBP. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ST18 (F-beta = 0.925) based on the NS Forest method of marker gene selection. Oligo cells represent 46.77% of all Non-Neuronal cells collected in the marmoset M1 10Xv3 dataset. Oligo cells have an average of 1908 genes detected which is 408 less than the average for all Non-Neuronal cells (2316)."]
+    "aliases": ["Oligo"],
+    "accession": ["CS201912132_105"],
+    "summary": ["Oligo is: Oligodendrocytes (often abbreviated Oligo). In Marmoset primary motor cortex (CCN201912132) Oligo has 3 child types: Oligo SLC1A3 LOC103793418,  Oligo OPALIN LOC103790018 and Oligo OPALIN MOBP. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ST18 (F-beta = 0.925) based on the NS Forest method of marker gene selection. Oligo cells represent 46.77% of all Non-Neuronal cells collected in the marmoset M1 10Xv3 dataset. Oligo cells have an average of 1908 genes detected which is 408 less than the average for all Non-Neuronal cells (2316)."]
   },
   "CS201912132_78": {
-    "Alias": ["OPC"],
-    "Accession": ["CS201912132_78"],
-    "Summary": ["OPC is: Oligodendrocyte progenitor cells. In Marmoset primary motor cortex (CCN201912132), OPC has 1 child type: OPC PDGFRA VCAN. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is PDGFRA and VCAN (F-beta = 0.93), based on the NS Forest method of marker gene selection. OPC cells represent 12.92% of all Non-Neuronal cells collected in the marmoset M1 10Xv3 dataset. OPC cells have an average of 2401 genes detected, which is 85 more than the average for all Non-Neuronal cells (2316)."]
+    "aliases": ["OPC"],
+    "accession": ["CS201912132_78"],
+    "summary": ["OPC is: Oligodendrocyte progenitor cells. In Marmoset primary motor cortex (CCN201912132), OPC has 1 child type: OPC PDGFRA VCAN. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is PDGFRA and VCAN (F-beta = 0.93), based on the NS Forest method of marker gene selection. OPC cells represent 12.92% of all Non-Neuronal cells collected in the marmoset M1 10Xv3 dataset. OPC cells have an average of 2401 genes detected, which is 85 more than the average for all Non-Neuronal cells (2316)."]
   },
   "CS201912132_106": {
-    "Alias": ["Astro"],
-    "Accession": ["CS201912132_106"],
-    "Summary": ["Astro is: Astrocytes (often abbreviated Astro). In Marmoset primary motor cortex (CCN201912132) Astro has 4 child types: Astro FGFR3 EPHB1, Astro FGFR3 NWD1,  Astro FGFR3 RCN2 and Astro FGFR3 GFAP. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CCDC129 and GLI3 (F-beta = 0.962) based on the NS Forest method of marker gene selection. Astro cells represent 40.31% of all Non-Neuronal cells collected in the marmoset M1 10Xv3 dataset. Astro cells have an average of 2761 genes detected which is 445 more than the average for all Non-Neuronal cells (2316)."]
+    "aliases": ["Astro"],
+    "accession": ["CS201912132_106"],
+    "summary": ["Astro is: Astrocytes (often abbreviated Astro). In Marmoset primary motor cortex (CCN201912132) Astro has 4 child types: Astro FGFR3 EPHB1, Astro FGFR3 NWD1,  Astro FGFR3 RCN2 and Astro FGFR3 GFAP. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CCDC129 and GLI3 (F-beta = 0.962) based on the NS Forest method of marker gene selection. Astro cells represent 40.31% of all Non-Neuronal cells collected in the marmoset M1 10Xv3 dataset. Astro cells have an average of 2761 genes detected which is 445 more than the average for all Non-Neuronal cells (2316)."]
   },
   "CS201912132_2": {
-    "Alias": ["Inh LAMP5 COL5A2"],
-    "Accession": ["CS201912132_2"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh LAMP5 COL5A2 is a member of the Lamp5 subclass. Inh LAMP5 COL5A2 includes the additional alias Lamp5_5. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is GLIS3 and TOX3 (F-beta = 0.699), based on the NS Forest method of marker gene selection. Inh LAMP5 COL5A2 cells represent 10.93% of all Lamp5 cells collected in the marmoset M1 10Xv3 dataset. Inh LAMP5 COL5A2 cells have an average of 3359 genes detected, which is 200 less than the average for all Lamp5 cells (3559)."]
+    "aliases": ["Inh LAMP5 COL5A2"],
+    "accession": ["CS201912132_2"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh LAMP5 COL5A2 is a member of the Lamp5 subclass. Inh LAMP5 COL5A2 includes the additional alias Lamp5_5. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is GLIS3 and TOX3 (F-beta = 0.699), based on the NS Forest method of marker gene selection. Inh LAMP5 COL5A2 cells represent 10.93% of all Lamp5 cells collected in the marmoset M1 10Xv3 dataset. Inh LAMP5 COL5A2 cells have an average of 3359 genes detected, which is 200 less than the average for all Lamp5 cells (3559)."]
   },
   "CS201912132_3": {
-    "Alias": ["Inh LAMP5 TOX2"],
-    "Accession": ["CS201912132_3"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh LAMP5 TOX2 is a member of the Lamp5 subclass. Inh LAMP5 TOX2 includes the additional alias Lamp5_1. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ALK and RELN and TOX2 (F-beta = 0.6), based on the NS Forest method of marker gene selection. Inh LAMP5 TOX2 cells represent 6.31% of all Lamp5 cells collected in the marmoset M1 10Xv3 dataset. Inh LAMP5 TOX2 cells have an average of 3528 genes detected, which is 31 less than the average for all Lamp5 cells (3559)."]
+    "aliases": ["Inh LAMP5 TOX2"],
+    "accession": ["CS201912132_3"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh LAMP5 TOX2 is a member of the Lamp5 subclass. Inh LAMP5 TOX2 includes the additional alias Lamp5_1. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ALK and RELN and TOX2 (F-beta = 0.6), based on the NS Forest method of marker gene selection. Inh LAMP5 TOX2 cells represent 6.31% of all Lamp5 cells collected in the marmoset M1 10Xv3 dataset. Inh LAMP5 TOX2 cells have an average of 3528 genes detected, which is 31 less than the average for all Lamp5 cells (3559)."]
   },
   "CS201912132_4": {
-    "Alias": ["Inh LAMP5 TRPC6"],
-    "Accession": ["CS201912132_4"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh LAMP5 TRPC6 is a member of the Lamp5 subclass. Inh LAMP5 TRPC6 includes the additional alias Lamp5_3. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is TACR1 and TRPC6 (F-beta = 0.78), based on the NS Forest method of marker gene selection. Inh LAMP5 TRPC6 cells represent 19.01% of all Lamp5 cells collected in the marmoset M1 10Xv3 dataset. Inh LAMP5 TRPC6 cells have an average of 3766 genes detected, which is 207 more than the average for all Lamp5 cells (3559)."]
+    "aliases": ["Inh LAMP5 TRPC6"],
+    "accession": ["CS201912132_4"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh LAMP5 TRPC6 is a member of the Lamp5 subclass. Inh LAMP5 TRPC6 includes the additional alias Lamp5_3. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is TACR1 and TRPC6 (F-beta = 0.78), based on the NS Forest method of marker gene selection. Inh LAMP5 TRPC6 cells represent 19.01% of all Lamp5 cells collected in the marmoset M1 10Xv3 dataset. Inh LAMP5 TRPC6 cells have an average of 3766 genes detected, which is 207 more than the average for all Lamp5 cells (3559)."]
   },
   "CS201912132_5": {
-    "Alias": ["Inh LAMP5 WWP1"],
-    "Accession": ["CS201912132_5"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh LAMP5 WWP1 is a member of the Lamp5 subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is KIT and NTNG1 (F-beta = 0.551), based on the NS Forest method of marker gene selection. Inh LAMP5 WWP1 cells represent 18.74% of all Lamp5 cells collected in the marmoset M1 10Xv3 dataset. Inh LAMP5 WWP1 cells have an average of 3296 genes detected, which is 263 less than the average for all Lamp5 cells (3559)."]
+    "aliases": ["Inh LAMP5 WWP1"],
+    "accession": ["CS201912132_5"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh LAMP5 WWP1 is a member of the Lamp5 subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is KIT and NTNG1 (F-beta = 0.551), based on the NS Forest method of marker gene selection. Inh LAMP5 WWP1 cells represent 18.74% of all Lamp5 cells collected in the marmoset M1 10Xv3 dataset. Inh LAMP5 WWP1 cells have an average of 3296 genes detected, which is 263 less than the average for all Lamp5 cells (3559)."]
   },
   "CS201912132_6": {
-    "Alias": ["Inh LAMP5 LOC108591196"],
-    "Accession": ["CS201912132_6"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh LAMP5 LOC108591196 is a member of the Lamp5 subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is COL25A1 and KIT (F-beta = 0.675), based on the NS Forest method of marker gene selection. Inh LAMP5 LOC108591196 cells represent 29.53% of all Lamp5 cells collected in the marmoset M1 10Xv3 dataset. Inh LAMP5 LOC108591196 cells have an average of 3720 genes detected, which is 161 more than the average for all Lamp5 cells (3559)."]
+    "aliases": ["Inh LAMP5 LOC108591196"],
+    "accession": ["CS201912132_6"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh LAMP5 LOC108591196 is a member of the Lamp5 subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is COL25A1 and KIT (F-beta = 0.675), based on the NS Forest method of marker gene selection. Inh LAMP5 LOC108591196 cells represent 29.53% of all Lamp5 cells collected in the marmoset M1 10Xv3 dataset. Inh LAMP5 LOC108591196 cells have an average of 3720 genes detected, which is 161 more than the average for all Lamp5 cells (3559)."]
   },
   "CS201912132_7": {
-    "Alias": ["Inh PAX6 HMBOX1"],
-    "Accession": ["CS201912132_7"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PAX6 HMBOX1 is a member of the Lamp5 subclass. Inh PAX6 HMBOX1 includes the additional alias Lamp5_4. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is RELN and SORCS3 (F-beta = 0.801), based on the NS Forest method of marker gene selection. Inh PAX6 HMBOX1 cells represent 15.48% of all Lamp5 cells collected in the marmoset M1 10Xv3 dataset. Inh PAX6 HMBOX1 cells have an average of 3468 genes detected, which is 91 less than the average for all Lamp5 cells (3559)."]
+    "aliases": ["Inh PAX6 HMBOX1"],
+    "accession": ["CS201912132_7"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PAX6 HMBOX1 is a member of the Lamp5 subclass. Inh PAX6 HMBOX1 includes the additional alias Lamp5_4. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is RELN and SORCS3 (F-beta = 0.801), based on the NS Forest method of marker gene selection. Inh PAX6 HMBOX1 cells represent 15.48% of all Lamp5 cells collected in the marmoset M1 10Xv3 dataset. Inh PAX6 HMBOX1 cells have an average of 3468 genes detected, which is 91 less than the average for all Lamp5 cells (3559)."]
   },
   "CS201912132_8": {
-    "Alias": ["Inh SNCG PLPPR1"],
-    "Accession": ["CS201912132_8"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SNCG PLPPR1 is a member of the Sncg subclass. Inh SNCG PLPPR1 includes the additional alias Sncg_2. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CNR1 and TRPM3 (F-beta = 0.748), based on the NS Forest method of marker gene selection. Inh SNCG PLPPR1 cells represent 11.77% of all Sncg cells collected in the marmoset M1 10Xv3 dataset. Inh SNCG PLPPR1 cells have an average of 4037 genes detected, which is 707 more than the average for all Sncg cells (3330)."]
+    "aliases": ["Inh SNCG PLPPR1"],
+    "accession": ["CS201912132_8"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SNCG PLPPR1 is a member of the Sncg subclass. Inh SNCG PLPPR1 includes the additional alias Sncg_2. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CNR1 and TRPM3 (F-beta = 0.748), based on the NS Forest method of marker gene selection. Inh SNCG PLPPR1 cells represent 11.77% of all Sncg cells collected in the marmoset M1 10Xv3 dataset. Inh SNCG PLPPR1 cells have an average of 4037 genes detected, which is 707 more than the average for all Sncg cells (3330)."]
   },
   "CS201912132_9": {
-    "Alias": ["Inh PAX6 ANKRD6"],
-    "Accession": ["CS201912132_9"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PAX6 ANKRD6 is a member of the Sncg subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is FBN2 and GPRIN3 and SPACA1 (F-beta = 0.382), based on the NS Forest method of marker gene selection. Inh PAX6 ANKRD6 cells represent 6.35% of all Sncg cells collected in the marmoset M1 10Xv3 dataset. Inh PAX6 ANKRD6 cells have an average of 3670 genes detected, which is 340 more than the average for all Sncg cells (3330)."]
+    "aliases": ["Inh PAX6 ANKRD6"],
+    "accession": ["CS201912132_9"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PAX6 ANKRD6 is a member of the Sncg subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is FBN2 and GPRIN3 and SPACA1 (F-beta = 0.382), based on the NS Forest method of marker gene selection. Inh PAX6 ANKRD6 cells represent 6.35% of all Sncg cells collected in the marmoset M1 10Xv3 dataset. Inh PAX6 ANKRD6 cells have an average of 3670 genes detected, which is 340 more than the average for all Sncg cells (3330)."]
   },
   "CS201912132_10": {
-    "Alias": ["Inh VIP CYP19A1"],
-    "Accession": ["CS201912132_10"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh VIP CYP19A1 is a member of the Sncg subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is LOC103795617 and SKAP1 (F-beta = 0.537), based on the NS Forest method of marker gene selection. Inh VIP CYP19A1 cells represent 5.1% of all Sncg cells collected in the marmoset M1 10Xv3 dataset. Inh VIP CYP19A1 cells have an average of 3935 genes detected, which is 605 more than the average for all Sncg cells (3330)."]
+    "aliases": ["Inh VIP CYP19A1"],
+    "accession": ["CS201912132_10"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh VIP CYP19A1 is a member of the Sncg subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is LOC103795617 and SKAP1 (F-beta = 0.537), based on the NS Forest method of marker gene selection. Inh VIP CYP19A1 cells represent 5.1% of all Sncg cells collected in the marmoset M1 10Xv3 dataset. Inh VIP CYP19A1 cells have an average of 3935 genes detected, which is 605 more than the average for all Sncg cells (3330)."]
   },
   "CS201912132_11": {
-    "Alias": ["Inh SNCG CNTN4"],
-    "Accession": ["CS201912132_11"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SNCG CNTN4 is a member of the Sncg subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ARHGAP18 and PCDH15 and VEGFC (F-beta = 0.745), based on the NS Forest method of marker gene selection. Inh SNCG CNTN4 cells represent 5.1% of all Sncg cells collected in the marmoset M1 10Xv3 dataset. Inh SNCG CNTN4 cells have an average of 3426 genes detected, which is 96 more than the average for all Sncg cells (3330)."]
+    "aliases": ["Inh SNCG CNTN4"],
+    "accession": ["CS201912132_11"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SNCG CNTN4 is a member of the Sncg subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ARHGAP18 and PCDH15 and VEGFC (F-beta = 0.745), based on the NS Forest method of marker gene selection. Inh SNCG CNTN4 cells represent 5.1% of all Sncg cells collected in the marmoset M1 10Xv3 dataset. Inh SNCG CNTN4 cells have an average of 3426 genes detected, which is 96 more than the average for all Sncg cells (3330)."]
   },
   "CS201912132_12": {
-    "Alias": ["Inh PAX6 CDH4"],
-    "Accession": ["CS201912132_12"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PAX6 CDH4 is a member of the Sncg subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ARHGAP6 and CDH4 and THSD7B (F-beta = 0.701), based on the NS Forest method of marker gene selection. Inh PAX6 CDH4 cells represent 6.35% of all Sncg cells collected in the marmoset M1 10Xv3 dataset. Inh PAX6 CDH4 cells have an average of 3190 genes detected, which is 140 less than the average for all Sncg cells (3330)."]
+    "aliases": ["Inh PAX6 CDH4"],
+    "accession": ["CS201912132_12"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PAX6 CDH4 is a member of the Sncg subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ARHGAP6 and CDH4 and THSD7B (F-beta = 0.701), based on the NS Forest method of marker gene selection. Inh PAX6 CDH4 cells represent 6.35% of all Sncg cells collected in the marmoset M1 10Xv3 dataset. Inh PAX6 CDH4 cells have an average of 3190 genes detected, which is 140 less than the average for all Sncg cells (3330)."]
   },
   "CS201912132_13": {
-    "Alias": ["Inh GAD1 PCP4"],
-    "Accession": ["CS201912132_13"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh GAD1 PCP4 is a member of the Sncg subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is PATJ and THSD7B (F-beta = 0.524), based on the NS Forest method of marker gene selection. Inh GAD1 PCP4 cells represent 30.73% of all Sncg cells collected in the marmoset M1 10Xv3 dataset. Inh GAD1 PCP4 cells have an average of 3147 genes detected, which is 183 less than the average for all Sncg cells (3330)."]
+    "aliases": ["Inh GAD1 PCP4"],
+    "accession": ["CS201912132_13"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh GAD1 PCP4 is a member of the Sncg subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is PATJ and THSD7B (F-beta = 0.524), based on the NS Forest method of marker gene selection. Inh GAD1 PCP4 cells represent 30.73% of all Sncg cells collected in the marmoset M1 10Xv3 dataset. Inh GAD1 PCP4 cells have an average of 3147 genes detected, which is 183 less than the average for all Sncg cells (3330)."]
   },
   "CS201912132_14": {
-    "Alias": ["Inh GAD1 LOC108589948"],
-    "Accession": ["CS201912132_14"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh GAD1 LOC108589948 is a member of the Sncg subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is LOC108589948 and THSD7B (F-beta = 0.556), based on the NS Forest method of marker gene selection. Inh GAD1 LOC108589948 cells represent 34.58% of all Sncg cells collected in the marmoset M1 10Xv3 dataset. Inh GAD1 LOC108589948 cells have an average of 3113 genes detected, which is 217 less than the average for all Sncg cells (3330)."]
+    "aliases": ["Inh GAD1 LOC108589948"],
+    "accession": ["CS201912132_14"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh GAD1 LOC108589948 is a member of the Sncg subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is LOC108589948 and THSD7B (F-beta = 0.556), based on the NS Forest method of marker gene selection. Inh GAD1 LOC108589948 cells represent 34.58% of all Sncg cells collected in the marmoset M1 10Xv3 dataset. Inh GAD1 LOC108589948 cells have an average of 3113 genes detected, which is 217 less than the average for all Sncg cells (3330)."]
   },
   "CS201912132_15": {
-    "Alias": ["Inh VIP THSD7B"],
-    "Accession": ["CS201912132_15"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh VIP THSD7B is a member of the Vip subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is LOC103788553 and THSD7B (F-beta = 0.564), based on the NS Forest method of marker gene selection. Inh VIP THSD7B cells represent 3.43% of all Vip cells collected in the marmoset M1 10Xv3 dataset. Inh VIP THSD7B cells have an average of 3306 genes detected, which is 123 more than the average for all Vip cells (3183)."]
+    "aliases": ["Inh VIP THSD7B"],
+    "accession": ["CS201912132_15"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh VIP THSD7B is a member of the Vip subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is LOC103788553 and THSD7B (F-beta = 0.564), based on the NS Forest method of marker gene selection. Inh VIP THSD7B cells represent 3.43% of all Vip cells collected in the marmoset M1 10Xv3 dataset. Inh VIP THSD7B cells have an average of 3306 genes detected, which is 123 more than the average for all Vip cells (3183)."]
   },
   "CS201912132_16": {
-    "Alias": ["Inh VIP LOC100397259"],
-    "Accession": ["CS201912132_16"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh VIP LOC100397259 is a member of the Vip subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CRH and MYO16 (F-beta = 0.548), based on the NS Forest method of marker gene selection. Inh VIP LOC100397259 cells represent 9.72% of all Vip cells collected in the marmoset M1 10Xv3 dataset. Inh VIP LOC100397259 cells have an average of 3395 genes detected, which is 212 more than the average for all Vip cells (3183)."]
+    "aliases": ["Inh VIP LOC100397259"],
+    "accession": ["CS201912132_16"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh VIP LOC100397259 is a member of the Vip subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CRH and MYO16 (F-beta = 0.548), based on the NS Forest method of marker gene selection. Inh VIP LOC100397259 cells represent 9.72% of all Vip cells collected in the marmoset M1 10Xv3 dataset. Inh VIP LOC100397259 cells have an average of 3395 genes detected, which is 212 more than the average for all Vip cells (3183)."]
   },
   "CS201912132_17": {
-    "Alias": ["Inh GAD1 NPSR1"],
-    "Accession": ["CS201912132_17"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh GAD1 NPSR1 is a member of the Vip subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ALCAM and LOC100403193 (F-beta = 0.603), based on the NS Forest method of marker gene selection. Inh GAD1 NPSR1 cells represent 4.08% of all Vip cells collected in the marmoset M1 10Xv3 dataset. Inh GAD1 NPSR1 cells have an average of 3508 genes detected, which is 325 more than the average for all Vip cells (3183)."]
+    "aliases": ["Inh GAD1 NPSR1"],
+    "accession": ["CS201912132_17"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh GAD1 NPSR1 is a member of the Vip subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ALCAM and LOC100403193 (F-beta = 0.603), based on the NS Forest method of marker gene selection. Inh GAD1 NPSR1 cells represent 4.08% of all Vip cells collected in the marmoset M1 10Xv3 dataset. Inh GAD1 NPSR1 cells have an average of 3508 genes detected, which is 325 more than the average for all Vip cells (3183)."]
   },
   "CS201912132_18": {
-    "Alias": ["Inh SNCG LOC108587895"],
-    "Accession": ["CS201912132_18"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SNCG LOC108587895 is a member of the Vip subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ADARB2 and LOC103793609 and SEMA3C (F-beta = 0.619), based on the NS Forest method of marker gene selection. Inh SNCG LOC108587895 cells represent 9.87% of all Vip cells collected in the marmoset M1 10Xv3 dataset. Inh SNCG LOC108587895 cells have an average of 3408 genes detected, which is 225 more than the average for all Vip cells (3183)."]
+    "aliases": ["Inh SNCG LOC108587895"],
+    "accession": ["CS201912132_18"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SNCG LOC108587895 is a member of the Vip subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ADARB2 and LOC103793609 and SEMA3C (F-beta = 0.619), based on the NS Forest method of marker gene selection. Inh SNCG LOC108587895 cells represent 9.87% of all Vip cells collected in the marmoset M1 10Xv3 dataset. Inh SNCG LOC108587895 cells have an average of 3408 genes detected, which is 225 more than the average for all Vip cells (3183)."]
   },
   "CS201912132_19": {
-    "Alias": ["Inh VIP LOC108589153"],
-    "Accession": ["CS201912132_19"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh VIP LOC108589153 is a member of the Vip subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ANO1 and KCNK13 and THSD7A (F-beta = 0.521), based on the NS Forest method of marker gene selection. Inh VIP LOC108589153 cells represent 6.59% of all Vip cells collected in the marmoset M1 10Xv3 dataset. Inh VIP LOC108589153 cells have an average of 3089 genes detected, which is 94 less than the average for all Vip cells (3183)."]
+    "aliases": ["Inh VIP LOC108589153"],
+    "accession": ["CS201912132_19"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh VIP LOC108589153 is a member of the Vip subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ANO1 and KCNK13 and THSD7A (F-beta = 0.521), based on the NS Forest method of marker gene selection. Inh VIP LOC108589153 cells represent 6.59% of all Vip cells collected in the marmoset M1 10Xv3 dataset. Inh VIP LOC108589153 cells have an average of 3089 genes detected, which is 94 less than the average for all Vip cells (3183)."]
   },
   "CS201912132_20": {
-    "Alias": ["Inh VIP FIGN"],
-    "Accession": ["CS201912132_20"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh VIP FIGN is a member of the Vip subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CALB2 and PCSK6 and UNC13C (F-beta = 0.609), based on the NS Forest method of marker gene selection. Inh VIP FIGN cells represent 21% of all Vip cells collected in the marmoset M1 10Xv3 dataset. Inh VIP FIGN cells have an average of 2869 genes detected, which is 314 less than the average for all Vip cells (3183)."]
+    "aliases": ["Inh VIP FIGN"],
+    "accession": ["CS201912132_20"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh VIP FIGN is a member of the Vip subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CALB2 and PCSK6 and UNC13C (F-beta = 0.609), based on the NS Forest method of marker gene selection. Inh VIP FIGN cells represent 21% of all Vip cells collected in the marmoset M1 10Xv3 dataset. Inh VIP FIGN cells have an average of 2869 genes detected, which is 314 less than the average for all Vip cells (3183)."]
   },
   "CS201912132_21": {
-    "Alias": ["Inh VIP GPR149"],
-    "Accession": ["CS201912132_21"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh VIP GPR149 is a member of the Vip subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CREB5 and CRH (F-beta = 0.58), based on the NS Forest method of marker gene selection. Inh VIP GPR149 cells represent 8.31% of all Vip cells collected in the marmoset M1 10Xv3 dataset. Inh VIP GPR149 cells have an average of 3005 genes detected, which is 178 less than the average for all Vip cells (3183)."]
+    "aliases": ["Inh VIP GPR149"],
+    "accession": ["CS201912132_21"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh VIP GPR149 is a member of the Vip subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CREB5 and CRH (F-beta = 0.58), based on the NS Forest method of marker gene selection. Inh VIP GPR149 cells represent 8.31% of all Vip cells collected in the marmoset M1 10Xv3 dataset. Inh VIP GPR149 cells have an average of 3005 genes detected, which is 178 less than the average for all Vip cells (3183)."]
   },
   "CS201912132_22": {
-    "Alias": ["Inh VIP LOC108588071"],
-    "Accession": ["CS201912132_22"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh VIP LOC108588071 is a member of the Vip subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is LOC103791740 and THSD4 (F-beta = 0.544), based on the NS Forest method of marker gene selection. Inh VIP LOC108588071 cells represent 13.87% of all Vip cells collected in the marmoset M1 10Xv3 dataset. Inh VIP LOC108588071 cells have an average of 3213 genes detected, which is 30 more than the average for all Vip cells (3183)."]
+    "aliases": ["Inh VIP LOC108588071"],
+    "accession": ["CS201912132_22"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh VIP LOC108588071 is a member of the Vip subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is LOC103791740 and THSD4 (F-beta = 0.544), based on the NS Forest method of marker gene selection. Inh VIP LOC108588071 cells represent 13.87% of all Vip cells collected in the marmoset M1 10Xv3 dataset. Inh VIP LOC108588071 cells have an average of 3213 genes detected, which is 30 more than the average for all Vip cells (3183)."]
   },
   "CS201912132_23": {
-    "Alias": ["Inh VIP VAT1L"],
-    "Accession": ["CS201912132_23"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh VIP VAT1L is a member of the Vip subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is LOC103795407 and TRPC4 and VIP (F-beta = 0.369), based on the NS Forest method of marker gene selection. Inh VIP VAT1L cells represent 7.66% of all Vip cells collected in the marmoset M1 10Xv3 dataset. Inh VIP VAT1L cells have an average of 3248 genes detected, which is 65 more than the average for all Vip cells (3183)."]
+    "aliases": ["Inh VIP VAT1L"],
+    "accession": ["CS201912132_23"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh VIP VAT1L is a member of the Vip subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is LOC103795407 and TRPC4 and VIP (F-beta = 0.369), based on the NS Forest method of marker gene selection. Inh VIP VAT1L cells represent 7.66% of all Vip cells collected in the marmoset M1 10Xv3 dataset. Inh VIP VAT1L cells have an average of 3248 genes detected, which is 65 more than the average for all Vip cells (3183)."]
   },
   "CS201912132_24": {
-    "Alias": ["Inh VIP CIT"],
-    "Accession": ["CS201912132_24"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh VIP CIT is a member of the Vip subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ARHGAP18 and EGFR and FREM1 (F-beta = 0.64), based on the NS Forest method of marker gene selection. Inh VIP CIT cells represent 11.59% of all Vip cells collected in the marmoset M1 10Xv3 dataset. Inh VIP CIT cells have an average of 3260 genes detected, which is 77 more than the average for all Vip cells (3183)."]
+    "aliases": ["Inh VIP CIT"],
+    "accession": ["CS201912132_24"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh VIP CIT is a member of the Vip subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ARHGAP18 and EGFR and FREM1 (F-beta = 0.64), based on the NS Forest method of marker gene selection. Inh VIP CIT cells represent 11.59% of all Vip cells collected in the marmoset M1 10Xv3 dataset. Inh VIP CIT cells have an average of 3260 genes detected, which is 77 more than the average for all Vip cells (3183)."]
   },
   "CS201912132_25": {
-    "Alias": ["Inh VIP LOC108588539"],
-    "Accession": ["CS201912132_25"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh VIP LOC108588539 is a member of the Vip subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is LOC103787232 and LOC108588539 (F-beta = 0.602), based on the NS Forest method of marker gene selection. Inh VIP LOC108588539 cells represent 3.89% of all Vip cells collected in the marmoset M1 10Xv3 dataset. Inh VIP LOC108588539 cells have an average of 3409 genes detected, which is 226 more than the average for all Vip cells (3183)."]
+    "aliases": ["Inh VIP LOC108588539"],
+    "accession": ["CS201912132_25"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh VIP LOC108588539 is a member of the Vip subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is LOC103787232 and LOC108588539 (F-beta = 0.602), based on the NS Forest method of marker gene selection. Inh VIP LOC108588539 cells represent 3.89% of all Vip cells collected in the marmoset M1 10Xv3 dataset. Inh VIP LOC108588539 cells have an average of 3409 genes detected, which is 226 more than the average for all Vip cells (3183)."]
   },
   "CS201912132_27": {
-    "Alias": ["Inh SST LOC108589054"],
-    "Accession": ["CS201912132_27"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SST LOC108589054 is a member of the Sst subclass. Inh SST LOC108589054 includes the additional alias Sst_5. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is SULF1 and THSD7B (F-beta = 0.755), based on the NS Forest method of marker gene selection. Inh SST LOC108589054 cells represent 3.51% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh SST LOC108589054 cells have an average of 4255 genes detected, which is 957 more than the average for all Sst cells (3298)."]
+    "aliases": ["Inh SST LOC108589054"],
+    "accession": ["CS201912132_27"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SST LOC108589054 is a member of the Sst subclass. Inh SST LOC108589054 includes the additional alias Sst_5. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is SULF1 and THSD7B (F-beta = 0.755), based on the NS Forest method of marker gene selection. Inh SST LOC108589054 cells represent 3.51% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh SST LOC108589054 cells have an average of 4255 genes detected, which is 957 more than the average for all Sst cells (3298)."]
   },
   "CS201912132_28": {
-    "Alias": ["Inh SST LOC108588801"],
-    "Accession": ["CS201912132_28"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SST LOC108588801 is a member of the Sst subclass. Inh SST LOC108588801 includes the additional alias Sst_6. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is COL25A1 and LOC108588801 and PCDH11X (F-beta = 0.736), based on the NS Forest method of marker gene selection. Inh SST LOC108588801 cells represent 5.89% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh SST LOC108588801 cells have an average of 3658 genes detected, which is 360 more than the average for all Sst cells (3298)."]
+    "aliases": ["Inh SST LOC108588801"],
+    "accession": ["CS201912132_28"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SST LOC108588801 is a member of the Sst subclass. Inh SST LOC108588801 includes the additional alias Sst_6. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is COL25A1 and LOC108588801 and PCDH11X (F-beta = 0.736), based on the NS Forest method of marker gene selection. Inh SST LOC108588801 cells represent 5.89% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh SST LOC108588801 cells have an average of 3658 genes detected, which is 360 more than the average for all Sst cells (3298)."]
   },
   "CS201912132_29": {
-    "Alias": ["Inh SST LOC103788138"],
-    "Accession": ["CS201912132_29"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SST LOC103788138 is a member of the Sst subclass. Inh SST LOC103788138 includes the additional alias Sst_7. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ALK and GLRA3 and TRHDE (F-beta = 0.577), based on the NS Forest method of marker gene selection. Inh SST LOC103788138 cells represent 1.71% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh SST LOC103788138 cells have an average of 3801 genes detected, which is 503 more than the average for all Sst cells (3298)."]
+    "aliases": ["Inh SST LOC103788138"],
+    "accession": ["CS201912132_29"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SST LOC103788138 is a member of the Sst subclass. Inh SST LOC103788138 includes the additional alias Sst_7. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ALK and GLRA3 and TRHDE (F-beta = 0.577), based on the NS Forest method of marker gene selection. Inh SST LOC103788138 cells represent 1.71% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh SST LOC103788138 cells have an average of 3801 genes detected, which is 503 more than the average for all Sst cells (3298)."]
   },
   "CS201912132_30": {
-    "Alias": ["Inh SST MPP5"],
-    "Accession": ["CS201912132_30"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SST MPP5 is a member of the Sst subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ARHGAP24 and SYT9 and TAC1 (F-beta = 0.469), based on the NS Forest method of marker gene selection. Inh SST MPP5 cells represent 1.52% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh SST MPP5 cells have an average of 3670 genes detected, which is 372 more than the average for all Sst cells (3298)."]
+    "aliases": ["Inh SST MPP5"],
+    "accession": ["CS201912132_30"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SST MPP5 is a member of the Sst subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ARHGAP24 and SYT9 and TAC1 (F-beta = 0.469), based on the NS Forest method of marker gene selection. Inh SST MPP5 cells represent 1.52% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh SST MPP5 cells have an average of 3670 genes detected, which is 372 more than the average for all Sst cells (3298)."]
   },
   "CS201912132_31": {
-    "Alias": ["Inh SST KIRREL3"],
-    "Accession": ["CS201912132_31"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SST KIRREL3 is a member of the Sst subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is COL25A1 and PTPRT and SERPINI1 (F-beta = 0.499), based on the NS Forest method of marker gene selection. Inh SST KIRREL3 cells represent 5.86% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh SST KIRREL3 cells have an average of 2761 genes detected, which is 537 less than the average for all Sst cells (3298)."]
+    "aliases": ["Inh SST KIRREL3"],
+    "accession": ["CS201912132_31"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SST KIRREL3 is a member of the Sst subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is COL25A1 and PTPRT and SERPINI1 (F-beta = 0.499), based on the NS Forest method of marker gene selection. Inh SST KIRREL3 cells represent 5.86% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh SST KIRREL3 cells have an average of 2761 genes detected, which is 537 less than the average for all Sst cells (3298)."]
   },
   "CS201912132_32": {
-    "Alias": ["Inh SST LOC103788660"],
-    "Accession": ["CS201912132_32"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SST LOC103788660 is a member of the Sst subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is COL24A1 and COL25A1 and NXPH1 (F-beta = 0.462), based on the NS Forest method of marker gene selection. Inh SST LOC103788660 cells represent 10.22% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh SST LOC103788660 cells have an average of 2997 genes detected, which is 301 less than the average for all Sst cells (3298)."]
+    "aliases": ["Inh SST LOC103788660"],
+    "accession": ["CS201912132_32"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SST LOC103788660 is a member of the Sst subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is COL24A1 and COL25A1 and NXPH1 (F-beta = 0.462), based on the NS Forest method of marker gene selection. Inh SST LOC103788660 cells represent 10.22% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh SST LOC103788660 cells have an average of 2997 genes detected, which is 301 less than the average for all Sst cells (3298)."]
   },
   "CS201912132_33": {
-    "Alias": ["Inh SST CBLN4"],
-    "Accession": ["CS201912132_33"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SST CBLN4 is a member of the Sst subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CBLN4 and COL24A1 (F-beta = 0.562), based on the NS Forest method of marker gene selection. Inh SST CBLN4 cells represent 9.4% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh SST CBLN4 cells have an average of 3255 genes detected, which is 43 less than the average for all Sst cells (3298)."]
+    "aliases": ["Inh SST CBLN4"],
+    "accession": ["CS201912132_33"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SST CBLN4 is a member of the Sst subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CBLN4 and COL24A1 (F-beta = 0.562), based on the NS Forest method of marker gene selection. Inh SST CBLN4 cells represent 9.4% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh SST CBLN4 cells have an average of 3255 genes detected, which is 43 less than the average for all Sst cells (3298)."]
   },
   "CS201912132_34": {
-    "Alias": ["Inh SST ABI3BP"],
-    "Accession": ["CS201912132_34"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SST ABI3BP is a member of the Sst subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ABI3BP and LOC100401328 (F-beta = 0.335), based on the NS Forest method of marker gene selection. Inh SST ABI3BP cells represent 4.81% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh SST ABI3BP cells have an average of 3620 genes detected, which is 322 more than the average for all Sst cells (3298)."]
+    "aliases": ["Inh SST ABI3BP"],
+    "accession": ["CS201912132_34"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SST ABI3BP is a member of the Sst subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ABI3BP and LOC100401328 (F-beta = 0.335), based on the NS Forest method of marker gene selection. Inh SST ABI3BP cells represent 4.81% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh SST ABI3BP cells have an average of 3620 genes detected, which is 322 more than the average for all Sst cells (3298)."]
   },
   "CS201912132_35": {
-    "Alias": ["Inh SST TMEFF2"],
-    "Accession": ["CS201912132_35"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SST TMEFF2 is a member of the Sst subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ANKRD55 and LOC100384959 and MAN1A1 (F-beta = 0.27), based on the NS Forest method of marker gene selection. Inh SST TMEFF2 cells represent 4.24% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh SST TMEFF2 cells have an average of 3399 genes detected, which is 101 more than the average for all Sst cells (3298)."]
+    "aliases": ["Inh SST TMEFF2"],
+    "accession": ["CS201912132_35"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SST TMEFF2 is a member of the Sst subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ANKRD55 and LOC100384959 and MAN1A1 (F-beta = 0.27), based on the NS Forest method of marker gene selection. Inh SST TMEFF2 cells represent 4.24% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh SST TMEFF2 cells have an average of 3399 genes detected, which is 101 more than the average for all Sst cells (3298)."]
   },
   "CS201912132_36": {
-    "Alias": ["Inh SST P4HA1"],
-    "Accession": ["CS201912132_36"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SST P4HA1 is a member of the Sst subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ABI3BP and COL19A1 and KCTD8 (F-beta = 0.502), based on the NS Forest method of marker gene selection. Inh SST P4HA1 cells represent 11.78% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh SST P4HA1 cells have an average of 3672 genes detected, which is 374 more than the average for all Sst cells (3298)."]
+    "aliases": ["Inh SST P4HA1"],
+    "accession": ["CS201912132_36"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SST P4HA1 is a member of the Sst subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ABI3BP and COL19A1 and KCTD8 (F-beta = 0.502), based on the NS Forest method of marker gene selection. Inh SST P4HA1 cells represent 11.78% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh SST P4HA1 cells have an average of 3672 genes detected, which is 374 more than the average for all Sst cells (3298)."]
   },
   "CS201912132_37": {
-    "Alias": ["Inh SST LTBP1"],
-    "Accession": ["CS201912132_37"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SST LTBP1 is a member of the Sst subclass. Inh SST LTBP1 includes the additional alias Sst_4. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is COL12A1 and TRHDE (F-beta = 0.627), based on the NS Forest method of marker gene selection. Inh SST LTBP1 cells represent 6.62% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh SST LTBP1 cells have an average of 3541 genes detected, which is 243 more than the average for all Sst cells (3298)."]
+    "aliases": ["Inh SST LTBP1"],
+    "accession": ["CS201912132_37"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SST LTBP1 is a member of the Sst subclass. Inh SST LTBP1 includes the additional alias Sst_4. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is COL12A1 and TRHDE (F-beta = 0.627), based on the NS Forest method of marker gene selection. Inh SST LTBP1 cells represent 6.62% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh SST LTBP1 cells have an average of 3541 genes detected, which is 243 more than the average for all Sst cells (3298)."]
   },
   "CS201912132_38": {
-    "Alias": ["Inh SST AIM1"],
-    "Accession": ["CS201912132_38"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SST AIM1 is a member of the Sst subclass. Inh SST AIM1 includes the additional alias Sst_1. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is NELL1 and TRHDE (F-beta = 0.388), based on the NS Forest method of marker gene selection. Inh SST AIM1 cells represent 8.07% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh SST AIM1 cells have an average of 3182 genes detected, which is 116 less than the average for all Sst cells (3298)."]
+    "aliases": ["Inh SST AIM1"],
+    "accession": ["CS201912132_38"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SST AIM1 is a member of the Sst subclass. Inh SST AIM1 includes the additional alias Sst_1. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is NELL1 and TRHDE (F-beta = 0.388), based on the NS Forest method of marker gene selection. Inh SST AIM1 cells represent 8.07% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh SST AIM1 cells have an average of 3182 genes detected, which is 116 less than the average for all Sst cells (3298)."]
   },
   "CS201912132_39": {
-    "Alias": ["Inh SST VAPA"],
-    "Accession": ["CS201912132_39"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SST VAPA is a member of the Sst subclass. Inh SST VAPA includes the additional alias Sst_2. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is EYS and LOC103793609 (F-beta = 0.524), based on the NS Forest method of marker gene selection. Inh SST VAPA cells represent 4.81% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh SST VAPA cells have an average of 3673 genes detected, which is 375 more than the average for all Sst cells (3298)."]
+    "aliases": ["Inh SST VAPA"],
+    "accession": ["CS201912132_39"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SST VAPA is a member of the Sst subclass. Inh SST VAPA includes the additional alias Sst_2. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is EYS and LOC103793609 (F-beta = 0.524), based on the NS Forest method of marker gene selection. Inh SST VAPA cells represent 4.81% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh SST VAPA cells have an average of 3673 genes detected, which is 375 more than the average for all Sst cells (3298)."]
   },
   "CS201912132_40": {
-    "Alias": ["Inh SST PCSK5"],
-    "Accession": ["CS201912132_40"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SST PCSK5 is a member of the Sst subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is NCKAP5 and RELN and UNC13C (F-beta = 0.62), based on the NS Forest method of marker gene selection. Inh SST PCSK5 cells represent 17.13% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh SST PCSK5 cells have an average of 2609 genes detected, which is 689 less than the average for all Sst cells (3298)."]
+    "aliases": ["Inh SST PCSK5"],
+    "accession": ["CS201912132_40"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh SST PCSK5 is a member of the Sst subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is NCKAP5 and RELN and UNC13C (F-beta = 0.62), based on the NS Forest method of marker gene selection. Inh SST PCSK5 cells represent 17.13% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh SST PCSK5 cells have an average of 2609 genes detected, which is 689 less than the average for all Sst cells (3298)."]
   },
   "CS201912132_41": {
-    "Alias": ["Inh PVALB OTOGL"],
-    "Accession": ["CS201912132_41"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PVALB OTOGL is a member of the Pvalb subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CCDC141 and CHRM2 and POSTN (F-beta = 0.703), based on the NS Forest method of marker gene selection. Inh PVALB OTOGL cells represent 4.69% of all Pvalb cells collected in the marmoset M1 10Xv3 dataset. Inh PVALB OTOGL cells have an average of 5355 genes detected, which is 1072 more than the average for all Pvalb cells (4283)."]
+    "aliases": ["Inh PVALB OTOGL"],
+    "accession": ["CS201912132_41"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PVALB OTOGL is a member of the Pvalb subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CCDC141 and CHRM2 and POSTN (F-beta = 0.703), based on the NS Forest method of marker gene selection. Inh PVALB OTOGL cells represent 4.69% of all Pvalb cells collected in the marmoset M1 10Xv3 dataset. Inh PVALB OTOGL cells have an average of 5355 genes detected, which is 1072 more than the average for all Pvalb cells (4283)."]
   },
   "CS201912132_42": {
-    "Alias": ["Inh PVALB LOC103790362"],
-    "Accession": ["CS201912132_42"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PVALB LOC103790362 is a member of the Pvalb subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is COL25A1 and FILIP1 and PRKG1 (F-beta = 0.616), based on the NS Forest method of marker gene selection. Inh PVALB LOC103790362 cells represent 15.38% of all Pvalb cells collected in the marmoset M1 10Xv3 dataset. Inh PVALB LOC103790362 cells have an average of 4448 genes detected, which is 165 more than the average for all Pvalb cells (4283)."]
+    "aliases": ["Inh PVALB LOC103790362"],
+    "accession": ["CS201912132_42"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PVALB LOC103790362 is a member of the Pvalb subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is COL25A1 and FILIP1 and PRKG1 (F-beta = 0.616), based on the NS Forest method of marker gene selection. Inh PVALB LOC103790362 cells represent 15.38% of all Pvalb cells collected in the marmoset M1 10Xv3 dataset. Inh PVALB LOC103790362 cells have an average of 4448 genes detected, which is 165 more than the average for all Pvalb cells (4283)."]
   },
   "CS201912132_43": {
-    "Alias": ["Inh PVALB OSBP2"],
-    "Accession": ["CS201912132_43"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PVALB OSBP2 is a member of the Pvalb subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is B3GLCT and BTBD11 and MYO5B (F-beta = 0.255), based on the NS Forest method of marker gene selection. Inh PVALB OSBP2 cells represent 7.93% of all Pvalb cells collected in the marmoset M1 10Xv3 dataset. Inh PVALB OSBP2 cells have an average of 4977 genes detected, which is 694 more than the average for all Pvalb cells (4283)."]
+    "aliases": ["Inh PVALB OSBP2"],
+    "accession": ["CS201912132_43"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PVALB OSBP2 is a member of the Pvalb subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is B3GLCT and BTBD11 and MYO5B (F-beta = 0.255), based on the NS Forest method of marker gene selection. Inh PVALB OSBP2 cells represent 7.93% of all Pvalb cells collected in the marmoset M1 10Xv3 dataset. Inh PVALB OSBP2 cells have an average of 4977 genes detected, which is 694 more than the average for all Pvalb cells (4283)."]
   },
   "CS201912132_44": {
-    "Alias": ["Inh PVALB LOC103789439"],
-    "Accession": ["CS201912132_44"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PVALB LOC103789439 is a member of the Pvalb subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CALN1 and FAM179A and FILIP1 and SULF1 (F-beta = 0.404), based on the NS Forest method of marker gene selection. Inh PVALB LOC103789439 cells represent 5.33% of all Pvalb cells collected in the marmoset M1 10Xv3 dataset. Inh PVALB LOC103789439 cells have an average of 4731 genes detected, which is 448 more than the average for all Pvalb cells (4283)."]
+    "aliases": ["Inh PVALB LOC103789439"],
+    "accession": ["CS201912132_44"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PVALB LOC103789439 is a member of the Pvalb subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CALN1 and FAM179A and FILIP1 and SULF1 (F-beta = 0.404), based on the NS Forest method of marker gene selection. Inh PVALB LOC103789439 cells represent 5.33% of all Pvalb cells collected in the marmoset M1 10Xv3 dataset. Inh PVALB LOC103789439 cells have an average of 4731 genes detected, which is 448 more than the average for all Pvalb cells (4283)."]
   },
   "CS201912132_45": {
-    "Alias": ["Inh PVALB GSTK1"],
-    "Accession": ["CS201912132_45"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PVALB GSTK1 is a member of the Pvalb subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is EYS and MYO5B and POSTN and SULF1 (F-beta = 0.332), based on the NS Forest method of marker gene selection. Inh PVALB GSTK1 cells represent 2.94% of all Pvalb cells collected in the marmoset M1 10Xv3 dataset. Inh PVALB GSTK1 cells have an average of 4712 genes detected, which is 429 more than the average for all Pvalb cells (4283)."]
+    "aliases": ["Inh PVALB GSTK1"],
+    "accession": ["CS201912132_45"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PVALB GSTK1 is a member of the Pvalb subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is EYS and MYO5B and POSTN and SULF1 (F-beta = 0.332), based on the NS Forest method of marker gene selection. Inh PVALB GSTK1 cells represent 2.94% of all Pvalb cells collected in the marmoset M1 10Xv3 dataset. Inh PVALB GSTK1 cells have an average of 4712 genes detected, which is 429 more than the average for all Pvalb cells (4283)."]
   },
   "CS201912132_46": {
-    "Alias": ["Inh PVALB C8H7orf62"],
-    "Accession": ["CS201912132_46"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PVALB C8H7orf62 is a member of the Pvalb subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CHST9 and LRRC38 and SULF1 (F-beta = 0.536), based on the NS Forest method of marker gene selection. Inh PVALB C8H7orf62 cells represent 9.16% of all Pvalb cells collected in the marmoset M1 10Xv3 dataset. Inh PVALB C8H7orf62 cells have an average of 4716 genes detected, which is 433 more than the average for all Pvalb cells (4283)."]
+    "aliases": ["Inh PVALB C8H7orf62"],
+    "accession": ["CS201912132_46"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PVALB C8H7orf62 is a member of the Pvalb subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CHST9 and LRRC38 and SULF1 (F-beta = 0.536), based on the NS Forest method of marker gene selection. Inh PVALB C8H7orf62 cells represent 9.16% of all Pvalb cells collected in the marmoset M1 10Xv3 dataset. Inh PVALB C8H7orf62 cells have an average of 4716 genes detected, which is 433 more than the average for all Pvalb cells (4283)."]
   },
   "CS201912132_47": {
-    "Alias": ["Inh PVALB SST LRRC6"],
-    "Accession": ["CS201912132_47"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PVALB SST LRRC6 is a member of the Sst subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is COL25A1 and EYS and NOS1 and TOX2 (F-beta = 0.415), based on the NS Forest method of marker gene selection. Inh PVALB SST LRRC6 cells represent 4.43% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh PVALB SST LRRC6 cells have an average of 3889 genes detected, which is 591 more than the average for all Sst cells (3298)."]
+    "aliases": ["Inh PVALB SST LRRC6"],
+    "accession": ["CS201912132_47"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PVALB SST LRRC6 is a member of the Sst subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is COL25A1 and EYS and NOS1 and TOX2 (F-beta = 0.415), based on the NS Forest method of marker gene selection. Inh PVALB SST LRRC6 cells represent 4.43% of all Sst cells collected in the marmoset M1 10Xv3 dataset. Inh PVALB SST LRRC6 cells have an average of 3889 genes detected, which is 591 more than the average for all Sst cells (3298)."]
   },
   "CS201912132_48": {
-    "Alias": ["Inh PVALB ADAMTS3"],
-    "Accession": ["CS201912132_48"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PVALB ADAMTS3 is a member of the Pvalb subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is KCNK13 and SYT10 and TMEM132C (F-beta = 0.588), based on the NS Forest method of marker gene selection. Inh PVALB ADAMTS3 cells represent 17.84% of all Pvalb cells collected in the marmoset M1 10Xv3 dataset. Inh PVALB ADAMTS3 cells have an average of 4241 genes detected, which is 42 less than the average for all Pvalb cells (4283)."]
+    "aliases": ["Inh PVALB ADAMTS3"],
+    "accession": ["CS201912132_48"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PVALB ADAMTS3 is a member of the Pvalb subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is KCNK13 and SYT10 and TMEM132C (F-beta = 0.588), based on the NS Forest method of marker gene selection. Inh PVALB ADAMTS3 cells represent 17.84% of all Pvalb cells collected in the marmoset M1 10Xv3 dataset. Inh PVALB ADAMTS3 cells have an average of 4241 genes detected, which is 42 less than the average for all Pvalb cells (4283)."]
   },
   "CS201912132_49": {
-    "Alias": ["Inh PVALB SST EYS"],
-    "Accession": ["CS201912132_49"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PVALB SST EYS is a member of the Pvalb subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is EYS and LOC103788721 and POSTN (F-beta = 0.545), based on the NS Forest method of marker gene selection. Inh PVALB SST EYS cells represent 8.23% of all Pvalb cells collected in the marmoset M1 10Xv3 dataset. Inh PVALB SST EYS cells have an average of 4011 genes detected, which is 272 less than the average for all Pvalb cells (4283)."]
+    "aliases": ["Inh PVALB SST EYS"],
+    "accession": ["CS201912132_49"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PVALB SST EYS is a member of the Pvalb subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is EYS and LOC103788721 and POSTN (F-beta = 0.545), based on the NS Forest method of marker gene selection. Inh PVALB SST EYS cells represent 8.23% of all Pvalb cells collected in the marmoset M1 10Xv3 dataset. Inh PVALB SST EYS cells have an average of 4011 genes detected, which is 272 less than the average for all Pvalb cells (4283)."]
   },
   "CS201912132_50": {
-    "Alias": ["Inh PVALB PCDH19"],
-    "Accession": ["CS201912132_50"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PVALB PCDH19 is a member of the Pvalb subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CPNE8 and LOC103788721 and POSTN (F-beta = 0.522), based on the NS Forest method of marker gene selection. Inh PVALB PCDH19 cells represent 2.83% of all Pvalb cells collected in the marmoset M1 10Xv3 dataset. Inh PVALB PCDH19 cells have an average of 3495 genes detected, which is 788 less than the average for all Pvalb cells (4283)."]
+    "aliases": ["Inh PVALB PCDH19"],
+    "accession": ["CS201912132_50"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PVALB PCDH19 is a member of the Pvalb subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CPNE8 and LOC103788721 and POSTN (F-beta = 0.522), based on the NS Forest method of marker gene selection. Inh PVALB PCDH19 cells represent 2.83% of all Pvalb cells collected in the marmoset M1 10Xv3 dataset. Inh PVALB PCDH19 cells have an average of 3495 genes detected, which is 788 less than the average for all Pvalb cells (4283)."]
   },
   "CS201912132_51": {
-    "Alias": ["Inh PVALB KLHL29"],
-    "Accession": ["CS201912132_51"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PVALB KLHL29 is a member of the Pvalb subclass. Inh PVALB KLHL29 includes the additional alias Pvalb_2. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ABCB4 and RNF144B and SLIT2 (F-beta = 0.566), based on the NS Forest method of marker gene selection. Inh PVALB KLHL29 cells represent 3.65% of all Pvalb cells collected in the marmoset M1 10Xv3 dataset. Inh PVALB KLHL29 cells have an average of 4089 genes detected, which is 194 less than the average for all Pvalb cells (4283)."]
+    "aliases": ["Inh PVALB KLHL29"],
+    "accession": ["CS201912132_51"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PVALB KLHL29 is a member of the Pvalb subclass. Inh PVALB KLHL29 includes the additional alias Pvalb_2. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ABCB4 and RNF144B and SLIT2 (F-beta = 0.566), based on the NS Forest method of marker gene selection. Inh PVALB KLHL29 cells represent 3.65% of all Pvalb cells collected in the marmoset M1 10Xv3 dataset. Inh PVALB KLHL29 cells have an average of 4089 genes detected, which is 194 less than the average for all Pvalb cells (4283)."]
   },
   "CS201912132_52": {
-    "Alias": ["Inh PVALB FAM19A4"],
-    "Accession": ["CS201912132_52"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PVALB FAM19A4 is a member of the Pvalb subclass. Inh PVALB FAM19A4 includes the additional alias Chandelier cell. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is FAM19A1 and POSTN (F-beta = 0.753), based on the NS Forest method of marker gene selection. Inh PVALB FAM19A4 cells represent 22.01% of all Pvalb cells collected in the marmoset M1 10Xv3 dataset. Inh PVALB FAM19A4 cells have an average of 3612 genes detected, which is 671 less than the average for all Pvalb cells (4283)."]
+    "aliases": ["Inh PVALB FAM19A4"],
+    "accession": ["CS201912132_52"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Inh PVALB FAM19A4 is a member of the Pvalb subclass. Inh PVALB FAM19A4 includes the additional alias Chandelier cell. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is FAM19A1 and POSTN (F-beta = 0.753), based on the NS Forest method of marker gene selection. Inh PVALB FAM19A4 cells represent 22.01% of all Pvalb cells collected in the marmoset M1 10Xv3 dataset. Inh PVALB FAM19A4 cells have an average of 3612 genes detected, which is 671 less than the average for all Pvalb cells (4283)."]
   },
   "CS201912132_53": {
-    "Alias": ["Exc THEMIS ANO3"],
-    "Accession": ["CS201912132_53"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Exc THEMIS ANO3 is a member of the L2/3 IT subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CHST9 and NPFFR2 and SLC38A11 and SLIT3 (F-beta = 0.529), based on the NS Forest method of marker gene selection. Exc THEMIS ANO3 cells represent 19.84% of all L2/3 IT cells collected in the marmoset M1 10Xv3 dataset. Exc THEMIS ANO3 cells have an average of 4729 genes detected, which is 376 more than the average for all L2/3 IT cells (4353)."]
+    "aliases": ["Exc THEMIS ANO3"],
+    "accession": ["CS201912132_53"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Exc THEMIS ANO3 is a member of the L2/3 IT subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CHST9 and NPFFR2 and SLC38A11 and SLIT3 (F-beta = 0.529), based on the NS Forest method of marker gene selection. Exc THEMIS ANO3 cells represent 19.84% of all L2/3 IT cells collected in the marmoset M1 10Xv3 dataset. Exc THEMIS ANO3 cells have an average of 4729 genes detected, which is 376 more than the average for all L2/3 IT cells (4353)."]
   },
   "CS201912132_54": {
-    "Alias": ["Exc RORB LOC108588466"],
-    "Accession": ["CS201912132_54"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Exc RORB LOC108588466 is a member of the L2/3 IT subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ARHGAP10 and LOC108588466 and PDZD2 and RGS6 (F-beta = 0.482), based on the NS Forest method of marker gene selection. Exc RORB LOC108588466 cells represent 42.34% of all L2/3 IT cells collected in the marmoset M1 10Xv3 dataset. Exc RORB LOC108588466 cells have an average of 4503 genes detected, which is 150 more than the average for all L2/3 IT cells (4353)."]
+    "aliases": ["Exc RORB LOC108588466"],
+    "accession": ["CS201912132_54"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Exc RORB LOC108588466 is a member of the L2/3 IT subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ARHGAP10 and LOC108588466 and PDZD2 and RGS6 (F-beta = 0.482), based on the NS Forest method of marker gene selection. Exc RORB LOC108588466 cells represent 42.34% of all L2/3 IT cells collected in the marmoset M1 10Xv3 dataset. Exc RORB LOC108588466 cells have an average of 4503 genes detected, which is 150 more than the average for all L2/3 IT cells (4353)."]
   },
   "CS201912132_55": {
-    "Alias": ["Exc RORB SERPINE2"],
-    "Accession": ["CS201912132_55"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Exc RORB SERPINE2 is a member of the L2/3 IT subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CHST8 and PLA2G4A and SNTB2 (F-beta = 0.322), based on the NS Forest method of marker gene selection. Exc RORB SERPINE2 cells represent 7.73% of all L2/3 IT cells collected in the marmoset M1 10Xv3 dataset. Exc RORB SERPINE2 cells have an average of 4219 genes detected, which is 134 less than the average for all L2/3 IT cells (4353)."]
+    "aliases": ["Exc RORB SERPINE2"],
+    "accession": ["CS201912132_55"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Exc RORB SERPINE2 is a member of the L2/3 IT subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CHST8 and PLA2G4A and SNTB2 (F-beta = 0.322), based on the NS Forest method of marker gene selection. Exc RORB SERPINE2 cells represent 7.73% of all L2/3 IT cells collected in the marmoset M1 10Xv3 dataset. Exc RORB SERPINE2 cells have an average of 4219 genes detected, which is 134 less than the average for all L2/3 IT cells (4353)."]
   },
   "CS201912132_56": {
-    "Alias": ["Exc RORB NDST3"],
-    "Accession": ["CS201912132_56"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Exc RORB NDST3 is a member of the L2/3 IT subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CHST9 and DGKG and KIAA2012 (F-beta = 0.492), based on the NS Forest method of marker gene selection. Exc RORB NDST3 cells represent 30.08% of all L2/3 IT cells collected in the marmoset M1 10Xv3 dataset. Exc RORB NDST3 cells have an average of 3928 genes detected, which is 425 less than the average for all L2/3 IT cells (4353)."]
+    "aliases": ["Exc RORB NDST3"],
+    "accession": ["CS201912132_56"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Exc RORB NDST3 is a member of the L2/3 IT subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CHST9 and DGKG and KIAA2012 (F-beta = 0.492), based on the NS Forest method of marker gene selection. Exc RORB NDST3 cells represent 30.08% of all L2/3 IT cells collected in the marmoset M1 10Xv3 dataset. Exc RORB NDST3 cells have an average of 3928 genes detected, which is 425 less than the average for all L2/3 IT cells (4353)."]
   },
   "CS201912132_57": {
-    "Alias": ["Exc RORB KNL1"],
-    "Accession": ["CS201912132_57"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Exc RORB KNL1 is a member of the L5 IT subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is VAV3 (F-beta = 0.114), based on the NS Forest method of marker gene selection. Exc RORB KNL1 cells represent 1.66% of all L5 IT cells collected in the marmoset M1 10Xv3 dataset. Exc RORB KNL1 cells have an average of 3952 genes detected, which is 377 less than the average for all L5 IT cells (4329)."]
+    "aliases": ["Exc RORB KNL1"],
+    "accession": ["CS201912132_57"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Exc RORB KNL1 is a member of the L5 IT subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is VAV3 (F-beta = 0.114), based on the NS Forest method of marker gene selection. Exc RORB KNL1 cells represent 1.66% of all L5 IT cells collected in the marmoset M1 10Xv3 dataset. Exc RORB KNL1 cells have an average of 3952 genes detected, which is 377 less than the average for all L5 IT cells (4329)."]
   },
   "CS201912132_58": {
-    "Alias": ["Exc RORB CAV3"],
-    "Accession": ["CS201912132_58"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Exc RORB CAV3 is a member of the L5 IT subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is LOC100408486 (F-beta = 0.341), based on the NS Forest method of marker gene selection. Exc RORB CAV3 cells represent 1.8% of all L5 IT cells collected in the marmoset M1 10Xv3 dataset. Exc RORB CAV3 cells have an average of 3773 genes detected, which is 556 less than the average for all L5 IT cells (4329)."]
+    "aliases": ["Exc RORB CAV3"],
+    "accession": ["CS201912132_58"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Exc RORB CAV3 is a member of the L5 IT subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is LOC100408486 (F-beta = 0.341), based on the NS Forest method of marker gene selection. Exc RORB CAV3 cells represent 1.8% of all L5 IT cells collected in the marmoset M1 10Xv3 dataset. Exc RORB CAV3 cells have an average of 3773 genes detected, which is 556 less than the average for all L5 IT cells (4329)."]
   },
   "CS201912132_59": {
-    "Alias": ["Exc THEMIS KCTD16"],
-    "Accession": ["CS201912132_59"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Exc THEMIS KCTD16 is a member of the L6 IT subclass. Exc THEMIS KCTD16 includes the additional alias L6 IT_2. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CSGALNACT1 and PLXDC2 and PTPRK and THEMIS (F-beta = 0.567), based on the NS Forest method of marker gene selection. Exc THEMIS KCTD16 cells represent 76.9% of all L6 IT cells collected in the marmoset M1 10Xv3 dataset. Exc THEMIS KCTD16 cells have an average of 4761 genes detected, which is 120 more than the average for all L6 IT cells (4641)."]
+    "aliases": ["Exc THEMIS KCTD16"],
+    "accession": ["CS201912132_59"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Exc THEMIS KCTD16 is a member of the L6 IT subclass. Exc THEMIS KCTD16 includes the additional alias L6 IT_2. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CSGALNACT1 and PLXDC2 and PTPRK and THEMIS (F-beta = 0.567), based on the NS Forest method of marker gene selection. Exc THEMIS KCTD16 cells represent 76.9% of all L6 IT cells collected in the marmoset M1 10Xv3 dataset. Exc THEMIS KCTD16 cells have an average of 4761 genes detected, which is 120 more than the average for all L6 IT cells (4641)."]
   },
   "CS201912132_60": {
-    "Alias": ["Exc THEMIS COBL"],
-    "Accession": ["CS201912132_60"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Exc THEMIS COBL is a member of the L6 IT subclass. Exc THEMIS COBL includes the additional alias L6 IT_1. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CNR1 and GABRG1 and IQGAP2 and NFIA (F-beta = 0.529), based on the NS Forest method of marker gene selection. Exc THEMIS COBL cells represent 23.1% of all L6 IT cells collected in the marmoset M1 10Xv3 dataset. Exc THEMIS COBL cells have an average of 4243 genes detected, which is 398 less than the average for all L6 IT cells (4641)."]
+    "aliases": ["Exc THEMIS COBL"],
+    "accession": ["CS201912132_60"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Exc THEMIS COBL is a member of the L6 IT subclass. Exc THEMIS COBL includes the additional alias L6 IT_1. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CNR1 and GABRG1 and IQGAP2 and NFIA (F-beta = 0.529), based on the NS Forest method of marker gene selection. Exc THEMIS COBL cells represent 23.1% of all L6 IT cells collected in the marmoset M1 10Xv3 dataset. Exc THEMIS COBL cells have an average of 4243 genes detected, which is 398 less than the average for all L6 IT cells (4641)."]
   },
   "CS201912132_61": {
-    "Alias": ["Exc RORB LOC108593203"],
-    "Accession": ["CS201912132_61"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Exc RORB LOC108593203 is a member of the L5 IT subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is LOC108593203 and VWC2L (F-beta = 0.629), based on the NS Forest method of marker gene selection. Exc RORB LOC108593203 cells represent 12.18% of all L5 IT cells collected in the marmoset M1 10Xv3 dataset. Exc RORB LOC108593203 cells have an average of 3889 genes detected, which is 440 less than the average for all L5 IT cells (4329)."]
+    "aliases": ["Exc RORB LOC108593203"],
+    "accession": ["CS201912132_61"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Exc RORB LOC108593203 is a member of the L5 IT subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is LOC108593203 and VWC2L (F-beta = 0.629), based on the NS Forest method of marker gene selection. Exc RORB LOC108593203 cells represent 12.18% of all L5 IT cells collected in the marmoset M1 10Xv3 dataset. Exc RORB LOC108593203 cells have an average of 3889 genes detected, which is 440 less than the average for all L5 IT cells (4329)."]
   },
   "CS201912132_62": {
-    "Alias": ["Exc RORB ANKRD27"],
-    "Accession": ["CS201912132_62"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Exc RORB ANKRD27 is a member of the L5 IT subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is GRAMD1C and PLCH1 and POU6F2 (F-beta = 0.636), based on the NS Forest method of marker gene selection. Exc RORB ANKRD27 cells represent 23.64% of all L5 IT cells collected in the marmoset M1 10Xv3 dataset. Exc RORB ANKRD27 cells have an average of 4206 genes detected, which is 123 less than the average for all L5 IT cells (4329)."]
+    "aliases": ["Exc RORB ANKRD27"],
+    "accession": ["CS201912132_62"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Exc RORB ANKRD27 is a member of the L5 IT subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is GRAMD1C and PLCH1 and POU6F2 (F-beta = 0.636), based on the NS Forest method of marker gene selection. Exc RORB ANKRD27 cells represent 23.64% of all L5 IT cells collected in the marmoset M1 10Xv3 dataset. Exc RORB ANKRD27 cells have an average of 4206 genes detected, which is 123 less than the average for all L5 IT cells (4329)."]
   },
   "CS201912132_63": {
-    "Alias": ["Exc RORB ACTA2"],
-    "Accession": ["CS201912132_63"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Exc RORB ACTA2 is a member of the L5 IT subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is FOXP2 and RORB and VWC2L (F-beta = 0.595), based on the NS Forest method of marker gene selection. Exc RORB ACTA2 cells represent 9.87% of all L5 IT cells collected in the marmoset M1 10Xv3 dataset. Exc RORB ACTA2 cells have an average of 3692 genes detected, which is 637 less than the average for all L5 IT cells (4329)."]
+    "aliases": ["Exc RORB ACTA2"],
+    "accession": ["CS201912132_63"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Exc RORB ACTA2 is a member of the L5 IT subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is FOXP2 and RORB and VWC2L (F-beta = 0.595), based on the NS Forest method of marker gene selection. Exc RORB ACTA2 cells represent 9.87% of all L5 IT cells collected in the marmoset M1 10Xv3 dataset. Exc RORB ACTA2 cells have an average of 3692 genes detected, which is 637 less than the average for all L5 IT cells (4329)."]
   },
   "CS201912132_64": {
-    "Alias": ["Exc RORB USH1C"],
-    "Accession": ["CS201912132_64"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Exc RORB USH1C is a member of the L5 IT subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is SPON1 and TMEM163 and USH1C (F-beta = 0.588), based on the NS Forest method of marker gene selection. Exc RORB USH1C cells represent 15.33% of all L5 IT cells collected in the marmoset M1 10Xv3 dataset. Exc RORB USH1C cells have an average of 5088 genes detected, which is 759 more than the average for all L5 IT cells (4329)."]
+    "aliases": ["Exc RORB USH1C"],
+    "accession": ["CS201912132_64"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Exc RORB USH1C is a member of the L5 IT subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is SPON1 and TMEM163 and USH1C (F-beta = 0.588), based on the NS Forest method of marker gene selection. Exc RORB USH1C cells represent 15.33% of all L5 IT cells collected in the marmoset M1 10Xv3 dataset. Exc RORB USH1C cells have an average of 5088 genes detected, which is 759 more than the average for all L5 IT cells (4329)."]
   },
   "CS201912132_65": {
-    "Alias": ["Exc RORB SLC38A11"],
-    "Accession": ["CS201912132_65"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Exc RORB SLC38A11 is a member of the L5 IT subclass. Exc RORB SLC38A11 includes the additional alias L5 IT_3. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is FOXP2 and SLC38A11 and TOX (F-beta = 0.587), based on the NS Forest method of marker gene selection. Exc RORB SLC38A11 cells represent 5.72% of all L5 IT cells collected in the marmoset M1 10Xv3 dataset. Exc RORB SLC38A11 cells have an average of 4169 genes detected, which is 160 less than the average for all L5 IT cells (4329)."]
+    "aliases": ["Exc RORB SLC38A11"],
+    "accession": ["CS201912132_65"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Exc RORB SLC38A11 is a member of the L5 IT subclass. Exc RORB SLC38A11 includes the additional alias L5 IT_3. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is FOXP2 and SLC38A11 and TOX (F-beta = 0.587), based on the NS Forest method of marker gene selection. Exc RORB SLC38A11 cells represent 5.72% of all L5 IT cells collected in the marmoset M1 10Xv3 dataset. Exc RORB SLC38A11 cells have an average of 4169 genes detected, which is 160 less than the average for all L5 IT cells (4329)."]
   },
   "CS201912132_66": {
-    "Alias": ["Exc RORB PPA2"],
-    "Accession": ["CS201912132_66"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Exc RORB PPA2 is a member of the L5 IT subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is EYA4 and HS3ST4 and LOC108588895 (F-beta = 0.664), based on the NS Forest method of marker gene selection. Exc RORB PPA2 cells represent 6.93% of all L5 IT cells collected in the marmoset M1 10Xv3 dataset. Exc RORB PPA2 cells have an average of 4042 genes detected, which is 287 less than the average for all L5 IT cells (4329)."]
+    "aliases": ["Exc RORB PPA2"],
+    "accession": ["CS201912132_66"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Exc RORB PPA2 is a member of the L5 IT subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is EYA4 and HS3ST4 and LOC108588895 (F-beta = 0.664), based on the NS Forest method of marker gene selection. Exc RORB PPA2 cells represent 6.93% of all L5 IT cells collected in the marmoset M1 10Xv3 dataset. Exc RORB PPA2 cells have an average of 4042 genes detected, which is 287 less than the average for all L5 IT cells (4329)."]
   },
   "CS201912132_67": {
-    "Alias": ["Exc RORB CHGA"],
-    "Accession": ["CS201912132_67"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Exc RORB CHGA is a member of the L5 IT subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is HS3ST4 and RCSD1 and RORB and TOX (F-beta = 0.505), based on the NS Forest method of marker gene selection. Exc RORB CHGA cells represent 12.42% of all L5 IT cells collected in the marmoset M1 10Xv3 dataset. Exc RORB CHGA cells have an average of 4291 genes detected, which is 38 less than the average for all L5 IT cells (4329)."]
+    "aliases": ["Exc RORB CHGA"],
+    "accession": ["CS201912132_67"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Exc RORB CHGA is a member of the L5 IT subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is HS3ST4 and RCSD1 and RORB and TOX (F-beta = 0.505), based on the NS Forest method of marker gene selection. Exc RORB CHGA cells represent 12.42% of all L5 IT cells collected in the marmoset M1 10Xv3 dataset. Exc RORB CHGA cells have an average of 4291 genes detected, which is 38 less than the average for all L5 IT cells (4329)."]
   },
   "CS201912132_68": {
-    "Alias": ["Exc RORB HACL1"],
-    "Accession": ["CS201912132_68"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Exc RORB HACL1 is a member of the L5 IT subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is AMOTL1 and CMTM8 and FAM19A1 and NRG1 (F-beta = 0.683), based on the NS Forest method of marker gene selection. Exc RORB HACL1 cells represent 10.45% of all L5 IT cells collected in the marmoset M1 10Xv3 dataset. Exc RORB HACL1 cells have an average of 5081 genes detected, which is 752 more than the average for all L5 IT cells (4329)."]
+    "aliases": ["Exc RORB HACL1"],
+    "accession": ["CS201912132_68"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Exc RORB HACL1 is a member of the L5 IT subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is AMOTL1 and CMTM8 and FAM19A1 and NRG1 (F-beta = 0.683), based on the NS Forest method of marker gene selection. Exc RORB HACL1 cells represent 10.45% of all L5 IT cells collected in the marmoset M1 10Xv3 dataset. Exc RORB HACL1 cells have an average of 5081 genes detected, which is 752 more than the average for all L5 IT cells (4329)."]
   },
   "CS201912132_69": {
-    "Alias": ["Oligo SLC1A3 LOC103793418"],
-    "Accession": ["CS201912132_69"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Oligo SLC1A3 LOC103793418 is a member of the Oligo subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CEMIP and LAMA2 (F-beta = 0.181), based on the NS Forest method of marker gene selection. Oligo SLC1A3 LOC103793418 cells represent 1.75% of all Oligo cells collected in the marmoset M1 10Xv3 dataset. Oligo SLC1A3 LOC103793418 cells have an average of 2776 genes detected, which is 868 more than the average for all Oligo cells (1908)."]
+    "aliases": ["Oligo SLC1A3 LOC103793418"],
+    "accession": ["CS201912132_69"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Oligo SLC1A3 LOC103793418 is a member of the Oligo subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CEMIP and LAMA2 (F-beta = 0.181), based on the NS Forest method of marker gene selection. Oligo SLC1A3 LOC103793418 cells represent 1.75% of all Oligo cells collected in the marmoset M1 10Xv3 dataset. Oligo SLC1A3 LOC103793418 cells have an average of 2776 genes detected, which is 868 more than the average for all Oligo cells (1908)."]
   },
   "CS201912132_70": {
-    "Alias": ["Exc THEMIS ARL13B"],
-    "Accession": ["CS201912132_70"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Exc THEMIS ARL13B is a member of the L5 ET subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is EPB41L4A and SV2C and THEMIS (F-beta = 0.571), based on the NS Forest method of marker gene selection. Exc THEMIS ARL13B cells represent 42.08% of all L5 ET cells collected in the marmoset M1 10Xv3 dataset. Exc THEMIS ARL13B cells have an average of 6716 genes detected, which is 341 more than the average for all L5 ET cells (6375)."]
+    "aliases": ["Exc THEMIS ARL13B"],
+    "accession": ["CS201912132_70"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Exc THEMIS ARL13B is a member of the L5 ET subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is EPB41L4A and SV2C and THEMIS (F-beta = 0.571), based on the NS Forest method of marker gene selection. Exc THEMIS ARL13B cells represent 42.08% of all L5 ET cells collected in the marmoset M1 10Xv3 dataset. Exc THEMIS ARL13B cells have an average of 6716 genes detected, which is 341 more than the average for all L5 ET cells (6375)."]
   },
   "CS201912132_71": {
-    "Alias": ["Exc FEZF2 PIEZO2"],
-    "Accession": ["CS201912132_71"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Exc FEZF2 PIEZO2 is a member of the L5 ET subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is FBN2 and LOC103793569 (F-beta = 0.689), based on the NS Forest method of marker gene selection. Exc FEZF2 PIEZO2 cells represent 35.47% of all L5 ET cells collected in the marmoset M1 10Xv3 dataset. Exc FEZF2 PIEZO2 cells have an average of 6425 genes detected, which is 50 more than the average for all L5 ET cells (6375)."]
+    "aliases": ["Exc FEZF2 PIEZO2"],
+    "accession": ["CS201912132_71"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Exc FEZF2 PIEZO2 is a member of the L5 ET subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is FBN2 and LOC103793569 (F-beta = 0.689), based on the NS Forest method of marker gene selection. Exc FEZF2 PIEZO2 cells represent 35.47% of all L5 ET cells collected in the marmoset M1 10Xv3 dataset. Exc FEZF2 PIEZO2 cells have an average of 6425 genes detected, which is 50 more than the average for all L5 ET cells (6375)."]
   },
   "CS201912132_72": {
-    "Alias": ["Exc FEZF2 PDZRN4"],
-    "Accession": ["CS201912132_72"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Exc FEZF2 PDZRN4 is a member of the L5 ET subclass. Exc FEZF2 PDZRN4 includes the additional alias L5 ET_2. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ERG and PDZRN4 (F-beta = 0.529), based on the NS Forest method of marker gene selection. Exc FEZF2 PDZRN4 cells represent 22.44% of all L5 ET cells collected in the marmoset M1 10Xv3 dataset. Exc FEZF2 PDZRN4 cells have an average of 5656 genes detected, which is 719 less than the average for all L5 ET cells (6375)."]
+    "aliases": ["Exc FEZF2 PDZRN4"],
+    "accession": ["CS201912132_72"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Exc FEZF2 PDZRN4 is a member of the L5 ET subclass. Exc FEZF2 PDZRN4 includes the additional alias L5 ET_2. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ERG and PDZRN4 (F-beta = 0.529), based on the NS Forest method of marker gene selection. Exc FEZF2 PDZRN4 cells represent 22.44% of all L5 ET cells collected in the marmoset M1 10Xv3 dataset. Exc FEZF2 PDZRN4 cells have an average of 5656 genes detected, which is 719 less than the average for all L5 ET cells (6375)."]
   },
   "CS201912132_73": {
-    "Alias": ["Exc FEZF2 RGS4"],
-    "Accession": ["CS201912132_73"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Exc FEZF2 RGS4 is a member of the L6 CT subclass. Exc FEZF2 RGS4 includes the additional alias L6 CT_1. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is BMP5 and HS3ST4 (F-beta = 0.555), based on the NS Forest method of marker gene selection. Exc FEZF2 RGS4 cells represent 59.68% of all L6 CT cells collected in the marmoset M1 10Xv3 dataset. Exc FEZF2 RGS4 cells have an average of 4670 genes detected, which is 160 more than the average for all L6 CT cells (4510)."]
+    "aliases": ["Exc FEZF2 RGS4"],
+    "accession": ["CS201912132_73"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Exc FEZF2 RGS4 is a member of the L6 CT subclass. Exc FEZF2 RGS4 includes the additional alias L6 CT_1. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is BMP5 and HS3ST4 (F-beta = 0.555), based on the NS Forest method of marker gene selection. Exc FEZF2 RGS4 cells represent 59.68% of all L6 CT cells collected in the marmoset M1 10Xv3 dataset. Exc FEZF2 RGS4 cells have an average of 4670 genes detected, which is 160 more than the average for all L6 CT cells (4510)."]
   },
   "CS201912132_74": {
-    "Alias": ["Exc FEZF2 NRP1"],
-    "Accession": ["CS201912132_74"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Exc FEZF2 NRP1 is a member of the L6 CT subclass. Exc FEZF2 NRP1 includes the additional alias L6 CT_2. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is HS3ST4 and NRP1 (F-beta = 0.589), based on the NS Forest method of marker gene selection. Exc FEZF2 NRP1 cells represent 40.32% of all L6 CT cells collected in the marmoset M1 10Xv3 dataset. Exc FEZF2 NRP1 cells have an average of 4273 genes detected, which is 237 less than the average for all L6 CT cells (4510)."]
+    "aliases": ["Exc FEZF2 NRP1"],
+    "accession": ["CS201912132_74"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Exc FEZF2 NRP1 is a member of the L6 CT subclass. Exc FEZF2 NRP1 includes the additional alias L6 CT_2. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is HS3ST4 and NRP1 (F-beta = 0.589), based on the NS Forest method of marker gene selection. Exc FEZF2 NRP1 cells represent 40.32% of all L6 CT cells collected in the marmoset M1 10Xv3 dataset. Exc FEZF2 NRP1 cells have an average of 4273 genes detected, which is 237 less than the average for all L6 CT cells (4510)."]
   },
   "CS201912132_79": {
-    "Alias": ["Astro FGFR3 EPHB1"],
-    "Accession": ["CS201912132_79"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Astro FGFR3 EPHB1 is a member of the Astro subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ETNPPL and MOXD1 and PLEKHA7 (F-beta = 0.429), based on the NS Forest method of marker gene selection. Astro FGFR3 EPHB1 cells represent 14.85% of all Astro cells collected in the marmoset M1 10Xv3 dataset. Astro FGFR3 EPHB1 cells have an average of 2686 genes detected, which is 75 less than the average for all Astro cells (2761)."]
+    "aliases": ["Astro FGFR3 EPHB1"],
+    "accession": ["CS201912132_79"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Astro FGFR3 EPHB1 is a member of the Astro subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ETNPPL and MOXD1 and PLEKHA7 (F-beta = 0.429), based on the NS Forest method of marker gene selection. Astro FGFR3 EPHB1 cells represent 14.85% of all Astro cells collected in the marmoset M1 10Xv3 dataset. Astro FGFR3 EPHB1 cells have an average of 2686 genes detected, which is 75 less than the average for all Astro cells (2761)."]
   },
   "CS201912132_80": {
-    "Alias": ["Astro FGFR3 NWD1"],
-    "Accession": ["CS201912132_80"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Astro FGFR3 NWD1 is a member of the Astro subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CCDC129 and LOC100406856 and LOC108587679 and NWD1 and SLC1A2 (F-beta = 0.618), based on the NS Forest method of marker gene selection. Astro FGFR3 NWD1 cells represent 49.34% of all Astro cells collected in the marmoset M1 10Xv3 dataset. Astro FGFR3 NWD1 cells have an average of 2744 genes detected, which is 17 less than the average for all Astro cells (2761)."]
+    "aliases": ["Astro FGFR3 NWD1"],
+    "accession": ["CS201912132_80"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Astro FGFR3 NWD1 is a member of the Astro subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CCDC129 and LOC100406856 and LOC108587679 and NWD1 and SLC1A2 (F-beta = 0.618), based on the NS Forest method of marker gene selection. Astro FGFR3 NWD1 cells represent 49.34% of all Astro cells collected in the marmoset M1 10Xv3 dataset. Astro FGFR3 NWD1 cells have an average of 2744 genes detected, which is 17 less than the average for all Astro cells (2761)."]
   },
   "CS201912132_81": {
-    "Alias": ["Astro FGFR3 RCN2"],
-    "Accession": ["CS201912132_81"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Astro FGFR3 RCN2 is a member of the Astro subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is BMPR1B and CCDC129 and FABP7 and MOXD1 (F-beta = 0.519), based on the NS Forest method of marker gene selection. Astro FGFR3 RCN2 cells represent 31.09% of all Astro cells collected in the marmoset M1 10Xv3 dataset. Astro FGFR3 RCN2 cells have an average of 2724 genes detected, which is 37 less than the average for all Astro cells (2761)."]
+    "aliases": ["Astro FGFR3 RCN2"],
+    "accession": ["CS201912132_81"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Astro FGFR3 RCN2 is a member of the Astro subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is BMPR1B and CCDC129 and FABP7 and MOXD1 (F-beta = 0.519), based on the NS Forest method of marker gene selection. Astro FGFR3 RCN2 cells represent 31.09% of all Astro cells collected in the marmoset M1 10Xv3 dataset. Astro FGFR3 RCN2 cells have an average of 2724 genes detected, which is 37 less than the average for all Astro cells (2761)."]
   },
   "CS201912132_82": {
-    "Alias": ["Astro FGFR3 GFAP"],
-    "Accession": ["CS201912132_82"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Astro FGFR3 GFAP is a member of the Astro subclass. Astro FGFR3 GFAP includes the additional alias Astro_1. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is GFAP (F-beta = 0.851), based on the NS Forest method of marker gene selection. Astro FGFR3 GFAP cells represent 4.72% of all Astro cells collected in the marmoset M1 10Xv3 dataset. Astro FGFR3 GFAP cells have an average of 3422 genes detected, which is 661 more than the average for all Astro cells (2761)."]
+    "aliases": ["Astro FGFR3 GFAP"],
+    "accession": ["CS201912132_82"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Astro FGFR3 GFAP is a member of the Astro subclass. Astro FGFR3 GFAP includes the additional alias Astro_1. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is GFAP (F-beta = 0.851), based on the NS Forest method of marker gene selection. Astro FGFR3 GFAP cells represent 4.72% of all Astro cells collected in the marmoset M1 10Xv3 dataset. Astro FGFR3 GFAP cells have an average of 3422 genes detected, which is 661 more than the average for all Astro cells (2761)."]
   },
   "CS201912132_83": {
-    "Alias": ["Oligo OPALIN LOC103790018"],
-    "Accession": ["CS201912132_83"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Oligo OPALIN LOC103790018 is a member of the Oligo subclass. Oligo OPALIN LOC103790018 includes the additional alias Oligo_2. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is LOC103789268 and MOG (F-beta = 0.798), based on the NS Forest method of marker gene selection. Oligo OPALIN LOC103790018 cells represent 71.76% of all Oligo cells collected in the marmoset M1 10Xv3 dataset. Oligo OPALIN LOC103790018 cells have an average of 1805 genes detected, which is 103 less than the average for all Oligo cells (1908)."]
+    "aliases": ["Oligo OPALIN LOC103790018"],
+    "accession": ["CS201912132_83"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Oligo OPALIN LOC103790018 is a member of the Oligo subclass. Oligo OPALIN LOC103790018 includes the additional alias Oligo_2. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is LOC103789268 and MOG (F-beta = 0.798), based on the NS Forest method of marker gene selection. Oligo OPALIN LOC103790018 cells represent 71.76% of all Oligo cells collected in the marmoset M1 10Xv3 dataset. Oligo OPALIN LOC103790018 cells have an average of 1805 genes detected, which is 103 less than the average for all Oligo cells (1908)."]
   },
   "CS201912132_84": {
-    "Alias": ["Oligo OPALIN MOBP"],
-    "Accession": ["CS201912132_84"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Oligo OPALIN MOBP is a member of the Oligo subclass. Oligo OPALIN MOBP includes the additional alias Oligo_1. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ANLN and MOBP and SEPP1 and SLC5A11 (F-beta = 0.604), based on the NS Forest method of marker gene selection. Oligo OPALIN MOBP cells represent 26.49% of all Oligo cells collected in the marmoset M1 10Xv3 dataset. Oligo OPALIN MOBP cells have an average of 2131 genes detected, which is 223 more than the average for all Oligo cells (1908)."]
+    "aliases": ["Oligo OPALIN MOBP"],
+    "accession": ["CS201912132_84"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Oligo OPALIN MOBP is a member of the Oligo subclass. Oligo OPALIN MOBP includes the additional alias Oligo_1. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ANLN and MOBP and SEPP1 and SLC5A11 (F-beta = 0.604), based on the NS Forest method of marker gene selection. Oligo OPALIN MOBP cells represent 26.49% of all Oligo cells collected in the marmoset M1 10Xv3 dataset. Oligo OPALIN MOBP cells have an average of 2131 genes detected, which is 223 more than the average for all Oligo cells (1908)."]
   },
   "CS201912132_85": {
-    "Alias": ["Endo NOSTRIN IL1R1"],
-    "Accession": ["CS201912132_85"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Endo NOSTRIN IL1R1 is a member of the Endo subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ADGRG6 and IL1R1 (F-beta = 0.69), based on the NS Forest method of marker gene selection. Endo NOSTRIN IL1R1 cells represent 12.43% of all Endo cells collected in the marmoset M1 10Xv3 dataset. Endo NOSTRIN IL1R1 cells have an average of 2339 genes detected, which is 33 more than the average for all Endo cells (2306)."]
+    "aliases": ["Endo NOSTRIN IL1R1"],
+    "accession": ["CS201912132_85"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Endo NOSTRIN IL1R1 is a member of the Endo subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is ADGRG6 and IL1R1 (F-beta = 0.69), based on the NS Forest method of marker gene selection. Endo NOSTRIN IL1R1 cells represent 12.43% of all Endo cells collected in the marmoset M1 10Xv3 dataset. Endo NOSTRIN IL1R1 cells have an average of 2339 genes detected, which is 33 more than the average for all Endo cells (2306)."]
   },
   "CS201912132_86": {
-    "Alias": ["Endo NOSTRIN CXCL12"],
-    "Accession": ["CS201912132_86"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Endo NOSTRIN CXCL12 is a member of the Endo subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is MECOM and SLC7A5 (F-beta = 0.823), based on the NS Forest method of marker gene selection. Endo NOSTRIN CXCL12 cells represent 84.62% of all Endo cells collected in the marmoset M1 10Xv3 dataset. Endo NOSTRIN CXCL12 cells have an average of 2302 genes detected, which is 4 less than the average for all Endo cells (2306)."]
+    "aliases": ["Endo NOSTRIN CXCL12"],
+    "accession": ["CS201912132_86"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Endo NOSTRIN CXCL12 is a member of the Endo subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is MECOM and SLC7A5 (F-beta = 0.823), based on the NS Forest method of marker gene selection. Endo NOSTRIN CXCL12 cells represent 84.62% of all Endo cells collected in the marmoset M1 10Xv3 dataset. Endo NOSTRIN CXCL12 cells have an average of 2302 genes detected, which is 4 less than the average for all Endo cells (2306)."]
   },
   "CS201912132_87": {
-    "Alias": ["Glia SLC1A3 FBLN5"],
-    "Accession": ["CS201912132_87"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Glia SLC1A3 FBLN5 is a member of the Endo subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is FBLN5 (F-beta = 0.833), based on the NS Forest method of marker gene selection. Glia SLC1A3 FBLN5 cells represent 2.94% of all Endo cells collected in the marmoset M1 10Xv3 dataset. Glia SLC1A3 FBLN5 cells have an average of 2282 genes detected, which is 24 less than the average for all Endo cells (2306)."]
+    "aliases": ["Glia SLC1A3 FBLN5"],
+    "accession": ["CS201912132_87"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Glia SLC1A3 FBLN5 is a member of the Endo subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is FBLN5 (F-beta = 0.833), based on the NS Forest method of marker gene selection. Glia SLC1A3 FBLN5 cells represent 2.94% of all Endo cells collected in the marmoset M1 10Xv3 dataset. Glia SLC1A3 FBLN5 cells have an average of 2282 genes detected, which is 24 less than the average for all Endo cells (2306)."]
   },
   "CS201912132_88": {
-    "Alias": ["Peri SLC1A3 CHST3"],
-    "Accession": ["CS201912132_88"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Peri SLC1A3 CHST3 is a member of the Peri subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CPM and LOC100405319 and NOTCH3 (F-beta = 0.504), based on the NS Forest method of marker gene selection. Peri SLC1A3 CHST3 cells represent 43.47% of all Peri cells collected in the marmoset M1 10Xv3 dataset. Peri SLC1A3 CHST3 cells have an average of 1866 genes detected, which is 98 more than the average for all Peri cells (1768)."]
+    "aliases": ["Peri SLC1A3 CHST3"],
+    "accession": ["CS201912132_88"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Peri SLC1A3 CHST3 is a member of the Peri subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CPM and LOC100405319 and NOTCH3 (F-beta = 0.504), based on the NS Forest method of marker gene selection. Peri SLC1A3 CHST3 cells represent 43.47% of all Peri cells collected in the marmoset M1 10Xv3 dataset. Peri SLC1A3 CHST3 cells have an average of 1866 genes detected, which is 98 more than the average for all Peri cells (1768)."]
   },
   "CS201912132_89": {
-    "Alias": ["Peri SLC1A3 EPSTI1"],
-    "Accession": ["CS201912132_89"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), Peri SLC1A3 EPSTI1 is a member of the Peri subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is COL4A3 and PLXDC1 (F-beta = 0.533), based on the NS Forest method of marker gene selection. Peri SLC1A3 EPSTI1 cells represent 56.53% of all Peri cells collected in the marmoset M1 10Xv3 dataset. Peri SLC1A3 EPSTI1 cells have an average of 1693 genes detected, which is 75 less than the average for all Peri cells (1768)."]
+    "aliases": ["Peri SLC1A3 EPSTI1"],
+    "accession": ["CS201912132_89"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), Peri SLC1A3 EPSTI1 is a member of the Peri subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is COL4A3 and PLXDC1 (F-beta = 0.533), based on the NS Forest method of marker gene selection. Peri SLC1A3 EPSTI1 cells represent 56.53% of all Peri cells collected in the marmoset M1 10Xv3 dataset. Peri SLC1A3 EPSTI1 cells have an average of 1693 genes detected, which is 75 less than the average for all Peri cells (1768)."]
   },
   "CS201912132_90": {
-    "Alias": ["VLMC PDGFRA C7"],
-    "Accession": ["CS201912132_90"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), VLMC PDGFRA C7 is a member of the VLMC subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is C7 and DCN (F-beta = 0.848), based on the NS Forest method of marker gene selection. VLMC PDGFRA C7 cells represent 30.89% of all VLMC cells collected in the marmoset M1 10Xv3 dataset. VLMC PDGFRA C7 cells have an average of 2678 genes detected, which is 239 less than the average for all VLMC cells (2917)."]
+    "aliases": ["VLMC PDGFRA C7"],
+    "accession": ["CS201912132_90"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), VLMC PDGFRA C7 is a member of the VLMC subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is C7 and DCN (F-beta = 0.848), based on the NS Forest method of marker gene selection. VLMC PDGFRA C7 cells represent 30.89% of all VLMC cells collected in the marmoset M1 10Xv3 dataset. VLMC PDGFRA C7 cells have an average of 2678 genes detected, which is 239 less than the average for all VLMC cells (2917)."]
   },
   "CS201912132_91": {
-    "Alias": ["VLMC SLC1A3 CEMIP"],
-    "Accession": ["CS201912132_91"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), VLMC SLC1A3 CEMIP is a member of the VLMC subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is LOC103789461 and SLC9A2 (F-beta = 0.644), based on the NS Forest method of marker gene selection. VLMC SLC1A3 CEMIP cells represent 12.1% of all VLMC cells collected in the marmoset M1 10Xv3 dataset. VLMC SLC1A3 CEMIP cells have an average of 3548 genes detected, which is 631 more than the average for all VLMC cells (2917)."]
+    "aliases": ["VLMC SLC1A3 CEMIP"],
+    "accession": ["CS201912132_91"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), VLMC SLC1A3 CEMIP is a member of the VLMC subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is LOC103789461 and SLC9A2 (F-beta = 0.644), based on the NS Forest method of marker gene selection. VLMC SLC1A3 CEMIP cells represent 12.1% of all VLMC cells collected in the marmoset M1 10Xv3 dataset. VLMC SLC1A3 CEMIP cells have an average of 3548 genes detected, which is 631 more than the average for all VLMC cells (2917)."]
   },
   "CS201912132_92": {
-    "Alias": ["VLMC SLC1A3 SLC13A3"],
-    "Accession": ["CS201912132_92"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), VLMC SLC1A3 SLC13A3 is a member of the VLMC subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CARD11 and SLC13A3 (F-beta = 0.804), based on the NS Forest method of marker gene selection. VLMC SLC1A3 SLC13A3 cells represent 8.64% of all VLMC cells collected in the marmoset M1 10Xv3 dataset. VLMC SLC1A3 SLC13A3 cells have an average of 3057 genes detected, which is 140 more than the average for all VLMC cells (2917)."]
+    "aliases": ["VLMC SLC1A3 SLC13A3"],
+    "accession": ["CS201912132_92"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), VLMC SLC1A3 SLC13A3 is a member of the VLMC subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is CARD11 and SLC13A3 (F-beta = 0.804), based on the NS Forest method of marker gene selection. VLMC SLC1A3 SLC13A3 cells represent 8.64% of all VLMC cells collected in the marmoset M1 10Xv3 dataset. VLMC SLC1A3 SLC13A3 cells have an average of 3057 genes detected, which is 140 more than the average for all VLMC cells (2917)."]
   },
   "CS201912132_93": {
-    "Alias": ["VLMC SLC1A3 SLC47A1"],
-    "Accession": ["CS201912132_93"],
-    "Summary": ["In Marmoset primary motor cortex (CCN201912132), VLMC SLC1A3 SLC47A1 is a member of the VLMC subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is SLC47A1 (F-beta = 0.889), based on the NS Forest method of marker gene selection. VLMC SLC1A3 SLC47A1 cells represent 48.38% of all VLMC cells collected in the marmoset M1 10Xv3 dataset. VLMC SLC1A3 SLC47A1 cells have an average of 2886 genes detected, which is 31 less than the average for all VLMC cells (2917)."]
+    "aliases": ["VLMC SLC1A3 SLC47A1"],
+    "accession": ["CS201912132_93"],
+    "summary": ["In Marmoset primary motor cortex (CCN201912132), VLMC SLC1A3 SLC47A1 is a member of the VLMC subclass. The minimal set of markers required to distinguish this cell type from other cell types in the primary motor cortex is SLC47A1 (F-beta = 0.889), based on the NS Forest method of marker gene selection. VLMC SLC1A3 SLC47A1 cells represent 48.38% of all VLMC cells collected in the marmoset M1 10Xv3 dataset. VLMC SLC1A3 SLC47A1 cells have an average of 2886 genes detected, which is 31 less than the average for all VLMC cells (2917)."]
   }
 }

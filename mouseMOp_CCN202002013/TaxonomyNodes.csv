@@ -1,0 +1,146 @@
+ids,labels,parents,color,accession_ID,class_label,type
+MOp,MOp,,white,,,
+MOp-GABAergic,GABAergic,MOp,#F05A28,CS202002013_123,"RNAseq 001-057, 089-090",class
+MOp-Glutamatergic,Glutamatergic,MOp,#00ADEE,CS202002013_179,RNAseq 058-088,class
+MOp-Non-Neuronal,Non-Neuronal,MOp,#808080,CS202002013_235,RNAseq 091-102,class
+MOp-Non-Neural,Non-Neural,MOp,#6C7557,CS202002013_219,RNAseq 103-116,class
+MOp-GABAergic-Lamp5,Lamp5,MOp-GABAergic,#DA808C,CS202002013_125,RNAseq 001-008,subclass
+MOp-GABAergic-Sncg,Sncg,MOp-GABAergic,#D633FF,CS202002013_133,RNAseq 009-014,subclass
+MOp-GABAergic-Vip,Vip,MOp-GABAergic,#B864CC,CS202002013_138,RNAseq 015-027,subclass
+MOp-GABAergic-Sst Chodl,Sst Chodl,MOp-GABAergic,#ECD704,CS202002013_28,RNAseq 028,subclass
+MOp-GABAergic-Sst,Sst,MOp-GABAergic,#FF9900,CS202002013_232,RNAseq 028-047,subclass
+MOp-GABAergic-Pvalb,Pvalb,MOp-GABAergic,#D93137,CS202002013_233,RNAseq 048-057,subclass
+MOp-Glutamatergic-L2/3 IT,L2/3 IT,MOp-Glutamatergic,#C4EC04,CS202002013_183,RNAseq 058-060,subclass
+MOp-Glutamatergic-L4/5 IT,L4/5 IT,MOp-Glutamatergic,#09CCC6,CS202002013_188,RNAseq 061-062,subclass
+MOp-Glutamatergic-L5 IT,L5 IT,MOp-Glutamatergic,#50B2AD,CS202002013_189,RNAseq 063-066,subclass
+MOp-Glutamatergic-L6 IT,L6 IT,MOp-Glutamatergic,#A19922,CS202002013_192,RNAseq 067-068,subclass
+MOp-Glutamatergic-L6 IT Car3,L6 IT Car3,MOp-Glutamatergic,#5100FF,CS202002013_69,RNAseq 069,subclass
+MOp-Glutamatergic-L5 ET,L5 ET,MOp-Glutamatergic,#0D5B78,CS202002013_193,RNAseq 070-073,subclass
+MOp-Glutamatergic-L5/6 NP,L5/6 NP,MOp-Glutamatergic,#3E9E64,CS202002013_207,RNAseq 086-088,subclass
+MOp-Glutamatergic-L6 CT,L6 CT,MOp-Glutamatergic,#2D8CB8,CS202002013_197,RNAseq 074-080,subclass
+MOp-Glutamatergic-L6b,L6b,MOp-Glutamatergic,#53377D,CS202002013_203,RNAseq 081-085,subclass
+MOp-GABAergic-Meis2,Meis2,MOp-GABAergic,#C60C0F,CS202002013_209,RNAseq 089-090,subclass
+MOp-Non-Neuronal-Astro,Astro,MOp-Non-Neuronal,#665C47,CS202002013_210,RNAseq 092-094,subclass
+MOp-Non-Neuronal-Oligo,Oligo,MOp-Non-Neuronal,#2E3E39,CS202002013_212,RNAseq 095-102,subclass
+MOp-Non-Neuronal-OPC,OPC,MOp-Non-Neuronal,#2E3E39,CS202002013_91,RNAseq 091,subclass
+MOp-Non-Neural-Endo,Endo,MOp-Non-Neural,#8D6C62,CS202002013_103,RNAseq 103,subclass
+MOp-Non-Neural-VLMC,VLMC,MOp-Non-Neural,#697255,CS202002013_222,RNAseq 104-110,subclass
+MOp-Non-Neural-SMC,SMC,MOp-Non-Neural,#807059,CS202002013_111,RNAseq 111,subclass
+MOp-Non-Neural-Peri,Peri,MOp-Non-Neural,#665547,CS202002013_112,RNAseq 112,subclass
+MOp-Non-Neural-Micro-PVM,Micro-PVM,MOp-Non-Neural,#94AF97,CS202002013_229,RNAseq 113-116,subclass
+MOp-GABAergic-Lamp5-Lamp5 Pax6,Lamp5 Pax6,MOp-GABAergic-Lamp5,#DDACC9,CS202002013_1,RNAseq 001,type
+MOp-GABAergic-Lamp5-Lamp5 Egln3_1,Lamp5 Egln3_1,MOp-GABAergic-Lamp5,#FF88AD,CS202002013_2,RNAseq 002,type
+MOp-GABAergic-Lamp5-Lamp5 Egln3_2,Lamp5 Egln3_2,MOp-GABAergic-Lamp5,#DD8091,CS202002013_3,RNAseq 003,type
+MOp-GABAergic-Lamp5-Lamp5 Egln3_3,Lamp5 Egln3_3,MOp-GABAergic-Lamp5,#F08E98,CS202002013_4,RNAseq 004,type
+MOp-GABAergic-Lamp5-Lamp5 Pdlim5_1,Lamp5 Pdlim5_1,MOp-GABAergic-Lamp5,#FF7290,CS202002013_5,RNAseq 005,type
+MOp-GABAergic-Lamp5-Lamp5 Pdlim5_2,Lamp5 Pdlim5_2,MOp-GABAergic-Lamp5,#FF8C97,CS202002013_6,RNAseq 006,type
+MOp-GABAergic-Lamp5-Lamp5 Slc35d3,Lamp5 Slc35d3,MOp-GABAergic-Lamp5,#FFA388,CS202002013_7,RNAseq 007,type
+MOp-GABAergic-Lamp5-Lamp5 Lhx6,Lamp5 Lhx6,MOp-GABAergic-Lamp5,#C77963,CS202002013_8,RNAseq 008,type
+MOp-GABAergic-Sncg-Sncg Col14a1,Sncg Col14a1,MOp-GABAergic-Sncg,#7E0ACB,CS202002013_9,RNAseq 009,type
+MOp-GABAergic-Sncg-Sncg Slc17a8,Sncg Slc17a8,MOp-GABAergic-Sncg,#9440F3,CS202002013_10,RNAseq 010,type
+MOp-GABAergic-Sncg-Sncg Calb1_1,Sncg Calb1_1,MOp-GABAergic-Sncg,#9611B6,CS202002013_11,RNAseq 011,type
+MOp-GABAergic-Sncg-Sncg Calb1_2,Sncg Calb1_2,MOp-GABAergic-Sncg,#9900B3,CS202002013_12,RNAseq 012,type
+MOp-GABAergic-Sncg-Sncg Npy2r,Sncg Npy2r,MOp-GABAergic-Sncg,#7A0099,CS202002013_13,RNAseq 013,type
+MOp-GABAergic-Sncg-Vip Sncg,Vip Sncg,MOp-GABAergic-Sncg,#AA4DB5,CS202002013_14,RNAseq 014,type
+MOp-GABAergic-Vip-Vip Serpinf1_1,Vip Serpinf1_1,MOp-GABAergic-Vip,#A720FF,CS202002013_15,RNAseq 015,type
+MOp-GABAergic-Vip-Vip Serpinf1_2,Vip Serpinf1_2,MOp-GABAergic-Vip,#AB1DFF,CS202002013_16,RNAseq 016,type
+MOp-GABAergic-Vip-Vip Serpinf1_3,Vip Serpinf1_3,MOp-GABAergic-Vip,#FF5FCD,CS202002013_17,RNAseq 017,type
+MOp-GABAergic-Vip-Vip Htr1f,Vip Htr1f,MOp-GABAergic-Vip,#FF4DC1,CS202002013_18,RNAseq 018,type
+MOp-GABAergic-Vip-Vip Gpc3,Vip Gpc3,MOp-GABAergic-Vip,#B09FFF,CS202002013_19,RNAseq 019,type
+MOp-GABAergic-Vip-Vip C1ql1,Vip C1ql1,MOp-GABAergic-Vip,#BD3D9A,CS202002013_20,RNAseq 020,type
+MOp-GABAergic-Vip-Vip Mybpc1_1,Vip Mybpc1_1,MOp-GABAergic-Vip,#F70CF3,CS202002013_21,RNAseq 021,type
+MOp-GABAergic-Vip-Vip Mybpc1_2,Vip Mybpc1_2,MOp-GABAergic-Vip,#992E81,CS202002013_22,RNAseq 022,type
+MOp-GABAergic-Vip-Vip Mybpc1_3,Vip Mybpc1_3,MOp-GABAergic-Vip,#AB379C,CS202002013_23,RNAseq 023,type
+MOp-GABAergic-Vip-Vip Chat_1,Vip Chat_1,MOp-GABAergic-Vip,#FF00FF,CS202002013_24,RNAseq 024,type
+MOp-GABAergic-Vip-Vip Chat_2,Vip Chat_2,MOp-GABAergic-Vip,#B3128A,CS202002013_25,RNAseq 025,type
+MOp-GABAergic-Vip-Vip Igfbp6_1,Vip Igfbp6_1,MOp-GABAergic-Vip,#7779BF,CS202002013_26,RNAseq 026,type
+MOp-GABAergic-Vip-Vip Igfbp6_2,Vip Igfbp6_2,MOp-GABAergic-Vip,#626EB8,CS202002013_27,RNAseq 027,type
+MOp-GABAergic-Sst Chodl-Sst Chodl,Sst Chodl,MOp-GABAergic-Sst Chodl,#FFFF00,CS202002013_28,RNAseq 028,type
+MOp-GABAergic-Sst-Sst Penk,Sst Penk,MOp-GABAergic-Sst,#FF8011,CS202002013_29,RNAseq 029,type
+MOp-GABAergic-Sst-Sst Myh8_1,Sst Myh8_1,MOp-GABAergic-Sst,#FF9F2C,CS202002013_30,RNAseq 030,type
+MOp-GABAergic-Sst-Sst Myh8_2,Sst Myh8_2,MOp-GABAergic-Sst,#FFB307,CS202002013_31,RNAseq 031,type
+MOp-GABAergic-Sst-Sst Myh8_3,Sst Myh8_3,MOp-GABAergic-Sst,#FFBF09,CS202002013_32,RNAseq 032,type
+MOp-GABAergic-Sst-Sst Htr1a,Sst Htr1a,MOp-GABAergic-Sst,#BFAF00,CS202002013_33,RNAseq 033,type
+MOp-GABAergic-Sst-Sst Etv1,Sst Etv1,MOp-GABAergic-Sst,#FFB22B,CS202002013_34,RNAseq 034,type
+MOp-GABAergic-Sst-Sst Pvalb Etv1,Sst Pvalb Etv1,MOp-GABAergic-Sst,#D9C566,CS202002013_35,RNAseq 035,type
+MOp-GABAergic-Sst-Sst Crhr2_1,Sst Crhr2_1,MOp-GABAergic-Sst,#BE8652,CS202002013_36,RNAseq 036,type
+MOp-GABAergic-Sst-Sst Crhr2_2,Sst Crhr2_2,MOp-GABAergic-Sst,#B0993C,CS202002013_37,RNAseq 037,type
+MOp-GABAergic-Sst-Sst Hpse,Sst Hpse,MOp-GABAergic-Sst,#CDB115,CS202002013_38,RNAseq 038,type
+MOp-GABAergic-Sst-Sst Calb2,Sst Calb2,MOp-GABAergic-Sst,#D2A328,CS202002013_39,RNAseq 039,type
+MOp-GABAergic-Sst-Sst Pvalb Calb2,Sst Pvalb Calb2,MOp-GABAergic-Sst,#784F14,CS202002013_40,RNAseq 040,type
+MOp-GABAergic-Sst-Sst Pappa,Sst Pappa,MOp-GABAergic-Sst,#635821,CS202002013_41,RNAseq 041,type
+MOp-GABAergic-Sst-Sst C1ql3_1,Sst C1ql3_1,MOp-GABAergic-Sst,#802600,CS202002013_42,RNAseq 042,type
+MOp-GABAergic-Sst-Sst C1ql3_2,Sst C1ql3_2,MOp-GABAergic-Sst,#8A2B1A,CS202002013_43,RNAseq 043,type
+MOp-GABAergic-Sst-Sst Tac2,Sst Tac2,MOp-GABAergic-Sst,#804600,CS202002013_44,RNAseq 044,type
+MOp-GABAergic-Sst-Sst Th_1,Sst Th_1,MOp-GABAergic-Sst,#8C6012,CS202002013_45,RNAseq 045,type
+MOp-GABAergic-Sst-Sst Th_2,Sst Th_2,MOp-GABAergic-Sst,#A81111,CS202002013_46,RNAseq 046,type
+MOp-GABAergic-Sst-Sst Th_3,Sst Th_3,MOp-GABAergic-Sst,#9B211B,CS202002013_47,RNAseq 047,type
+MOp-GABAergic-Pvalb-Pvalb Gabrg1,Pvalb Gabrg1,MOp-GABAergic-Pvalb,#ED4C50,CS202002013_48,RNAseq 048,type
+MOp-GABAergic-Pvalb-Pvalb Egfem1,Pvalb Egfem1,MOp-GABAergic-Pvalb,#C05661,CS202002013_49,RNAseq 049,type
+MOp-GABAergic-Pvalb-Pvalb Gpr149,Pvalb Gpr149,MOp-GABAergic-Pvalb,#E62A5D,CS202002013_50,RNAseq 050,type
+MOp-GABAergic-Pvalb-Pvalb Kank4,Pvalb Kank4,MOp-GABAergic-Pvalb,#BC4B11,CS202002013_51,RNAseq 051,type
+MOp-GABAergic-Pvalb-Pvalb Calb1_1,Pvalb Calb1_1,MOp-GABAergic-Pvalb,#B6411E,CS202002013_52,RNAseq 052,type
+MOp-GABAergic-Pvalb-Pvalb Calb1_2,Pvalb Calb1_2,MOp-GABAergic-Pvalb,#BC2D71,CS202002013_53,RNAseq 053,type
+MOp-GABAergic-Pvalb-Pvalb Reln,Pvalb Reln,MOp-GABAergic-Pvalb,#9C4165,CS202002013_54,RNAseq 054,type
+MOp-GABAergic-Pvalb-Pvalb Il1rapl2,Pvalb Il1rapl2,MOp-GABAergic-Pvalb,#BC2C41,CS202002013_55,RNAseq 055,type
+MOp-GABAergic-Pvalb-Pvalb Vipr2_1,Pvalb Vipr2_1,MOp-GABAergic-Pvalb,#FF197F,CS202002013_56,RNAseq 056,type
+MOp-GABAergic-Pvalb-Pvalb Vipr2_2,Pvalb Vipr2_2,MOp-GABAergic-Pvalb,#F4358B,CS202002013_57,RNAseq 057,type
+MOp-Glutamatergic-L2/3 IT-L2/3 IT_1,L2/3 IT_1,MOp-Glutamatergic-L2/3 IT,#00FF34,CS202002013_58,RNAseq 058,type
+MOp-Glutamatergic-L2/3 IT-L2/3 IT_2,L2/3 IT_2,MOp-Glutamatergic-L2/3 IT,#07D945,CS202002013_59,RNAseq 059,type
+MOp-Glutamatergic-L2/3 IT-L2/3 IT_3,L2/3 IT_3,MOp-Glutamatergic-L2/3 IT,#2EB934,CS202002013_60,RNAseq 060,type
+MOp-Glutamatergic-L4/5 IT-L4/5 IT_1,L4/5 IT_1,MOp-Glutamatergic-L4/5 IT,#09CCC6,CS202002013_61,RNAseq 061,type
+MOp-Glutamatergic-L4/5 IT-L4/5 IT_2,L4/5 IT_2,MOp-Glutamatergic-L4/5 IT,#52B8AA,CS202002013_62,RNAseq 062,type
+MOp-Glutamatergic-L5 IT-L5 IT_1,L5 IT_1,MOp-Glutamatergic-L5 IT,#58D2C1,CS202002013_63,RNAseq 063,type
+MOp-Glutamatergic-L5 IT-L5 IT_2,L5 IT_2,MOp-Glutamatergic-L5 IT,#4A9F93,CS202002013_64,RNAseq 064,type
+MOp-Glutamatergic-L5 IT-L5 IT_3,L5 IT_3,MOp-Glutamatergic-L5 IT,#4EAC9C,CS202002013_65,RNAseq 065,type
+MOp-Glutamatergic-L5 IT-L5 IT_4,L5 IT_4,MOp-Glutamatergic-L5 IT,#52B4B8,CS202002013_66,RNAseq 066,type
+MOp-Glutamatergic-L6 IT-L6 IT_1,L6 IT_1,MOp-Glutamatergic-L6 IT,#B2AD23,CS202002013_67,RNAseq 067,type
+MOp-Glutamatergic-L6 IT-L6 IT_2,L6 IT_2,MOp-Glutamatergic-L6 IT,#81791F,CS202002013_68,RNAseq 068,type
+MOp-Glutamatergic-L6 IT Car3-L6 IT Car3,L6 IT Car3,MOp-Glutamatergic-L6 IT Car3,#5100FF,CS202002013_69,RNAseq 069,type
+MOp-Glutamatergic-L5 ET-L5 ET_1,L5 ET_1,MOp-Glutamatergic-L5 ET,#0D5D7E,CS202002013_70,RNAseq 070,type
+MOp-Glutamatergic-L5 ET-L5 ET_2,L5 ET_2,MOp-Glutamatergic-L5 ET,#0B77A5,CS202002013_71,RNAseq 071,type
+MOp-Glutamatergic-L5 ET-L5 ET_3,L5 ET_3,MOp-Glutamatergic-L5 ET,#0B8AA5,CS202002013_72,RNAseq 072,type
+MOp-Glutamatergic-L5 ET-L5 ET_4,L5 ET_4,MOp-Glutamatergic-L5 ET,#0A75B1,CS202002013_73,RNAseq 073,type
+MOp-Glutamatergic-L5/6 NP-L5/6 NP_1,L5/6 NP_1,MOp-Glutamatergic-L5/6 NP,#48CB80,CS202002013_86,RNAseq 086,type
+MOp-Glutamatergic-L5/6 NP-L5/6 NP_2,L5/6 NP_2,MOp-Glutamatergic-L5/6 NP,#3C78BC,CS202002013_87,RNAseq 087,type
+MOp-Glutamatergic-L5/6 NP-L5/6 NP_3,L5/6 NP_3,MOp-Glutamatergic-L5/6 NP,#47867A,CS202002013_88,RNAseq 088,type
+MOp-Glutamatergic-L5/6 NP-L5/6 NP CT,L5/6 NP CT,MOp-Glutamatergic-L6 CT,#1AAB99,CS202002013_74,RNAseq 074,type
+MOp-Glutamatergic-L6 CT-L6 CT Gpr139,L6 CT Gpr139,MOp-Glutamatergic-L6 CT,#168577,CS202002013_75,RNAseq 075,type
+MOp-Glutamatergic-L6 CT-L6 CT Cpa6,L6 CT Cpa6,MOp-Glutamatergic-L6 CT,#338C5E,CS202002013_76,RNAseq 076,type
+MOp-Glutamatergic-L6 CT-L6 CT Grp,L6 CT Grp,MOp-Glutamatergic-L6 CT,#2FBCE5,CS202002013_77,RNAseq 077,type
+MOp-Glutamatergic-L6 CT-L6 CT Pou3f2,L6 CT Pou3f2,MOp-Glutamatergic-L6 CT,#3E766C,CS202002013_78,RNAseq 078,type
+MOp-Glutamatergic-L6 CT-L6 CT Kit_1,L6 CT Kit_1,MOp-Glutamatergic-L6 CT,#516B78,CS202002013_79,RNAseq 079,type
+MOp-Glutamatergic-L6 CT-L6 CT Kit_2,L6 CT Kit_2,MOp-Glutamatergic-L6 CT,#557361,CS202002013_80,RNAseq 080,type
+MOp-Glutamatergic-L6b-L6b Col6a1,L6b Col6a1,MOp-Glutamatergic-L6b,#69419D,CS202002013_81,RNAseq 081,type
+MOp-Glutamatergic-L6b-L6b Shisa6_1,L6b Shisa6_1,MOp-Glutamatergic-L6b,#46306A,CS202002013_82,RNAseq 082,type
+MOp-Glutamatergic-L6b-L6b Shisa6_2,L6b Shisa6_2,MOp-Glutamatergic-L6b,#464576,CS202002013_83,RNAseq 083,type
+MOp-Glutamatergic-L6b-L6b Ror1,L6b Ror1,MOp-Glutamatergic-L6b,#7044AA,CS202002013_84,RNAseq 084,type
+MOp-Glutamatergic-L6b-L6b Kcnip1,L6b Kcnip1,MOp-Glutamatergic-L6b,#573D90,CS202002013_85,RNAseq 085,type
+MOp-GABAergic-Meis2-Meis2,Meis2,MOp-GABAergic-Meis2,#C60C0F,CS202002013_89,RNAseq 089,type
+MOp-GABAergic-Meis2-Meis2_Top2a,Meis2_Top2a,MOp-GABAergic-Meis2,#931010,CS202002013_90,RNAseq 090,type
+MOp-Non-Neuronal-Astro-Astro_Top2a,Astro_Top2a,MOp-Non-Neuronal-Astro,#332F26,CS202002013_92,RNAseq 092,type
+MOp-Non-Neuronal-Astro-Astro Aqp4_Gfap,Astro Aqp4_Gfap,MOp-Non-Neuronal-Astro,#5A503F,CS202002013_93,RNAseq 093,type
+MOp-Non-Neuronal-Astro-Astro Aqp4_Slc7a10,Astro Aqp4_Slc7a10,MOp-Non-Neuronal-Astro,#8D7C5D,CS202002013_94,RNAseq 094,type
+MOp-Non-Neuronal-OPC Pdgfra,OPC Pdgfra,MOp-Non-Neuronal-Oligo,#2E3E39,CS202002013_91,RNAseq 091,type
+MOp-Non-Neuronal-Oligo-Oligo Enpp6_1,Oligo Enpp6_1,MOp-Non-Neuronal-Oligo,#374A45,CS202002013_95,RNAseq 095,type
+MOp-Non-Neuronal-Oligo-Oligo Enpp6_2,Oligo Enpp6_2,MOp-Non-Neuronal-Oligo,#5E8A79,CS202002013_96,RNAseq 096,type
+MOp-Non-Neuronal-Oligo-Oligo Enpp6_3,Oligo Enpp6_3,MOp-Non-Neuronal-Oligo,#3F574E,CS202002013_97,RNAseq 097,type
+MOp-Non-Neuronal-Oligo-Oligo Enpp6_4,Oligo Enpp6_4,MOp-Non-Neuronal-Oligo,#65978A,CS202002013_98,RNAseq 098,type
+MOp-Non-Neuronal-Oligo-Oligo Opalin_1,Oligo Opalin_1,MOp-Non-Neuronal-Oligo,#474662,CS202002013_99,RNAseq 099,type
+MOp-Non-Neuronal-Oligo-Oligo Opalin_2,Oligo Opalin_2,MOp-Non-Neuronal-Oligo,#6CA491,CS202002013_100,RNAseq 100,type
+MOp-Non-Neuronal-Oligo-Oligo Opalin_3,Oligo Opalin_3,MOp-Non-Neuronal-Oligo,#4F7165,CS202002013_101,RNAseq 101,type
+MOp-Non-Neuronal-Oligo-Oligo Opalin_4,Oligo Opalin_4,MOp-Non-Neuronal-Oligo,#72B09C,CS202002013_102,RNAseq 102,type
+MOp-Non-Neural-Endo-Endo,Endo,MOp-Non-Neural-Endo,#8D6A62,CS202002013_103,RNAseq 103,type
+MOp-Non-Neural-VLMC-VLMC_1,VLMC_1,MOp-Non-Neural-VLMC,#3B3F32,CS202002013_104,RNAseq 104,type
+MOp-Non-Neural-VLMC-VLMC_2,VLMC_2,MOp-Non-Neural-VLMC,#697255,CS202002013_105,RNAseq 105,type
+MOp-Non-Neural-VLMC-VLMC_3,VLMC_3,MOp-Non-Neural-VLMC,#535944,CS202002013_106,RNAseq 106,type
+MOp-Non-Neural-VLMC-VLMC_4,VLMC_4,MOp-Non-Neural-VLMC,#535945,CS202002013_107,RNAseq 107,type
+MOp-Non-Neural-VLMC-VLMC_5,VLMC_5,MOp-Non-Neural-VLMC,#535946,CS202002013_108,RNAseq 108,type
+MOp-Non-Neural-VLMC-VLMC_6,VLMC_6,MOp-Non-Neural-VLMC,#535947,CS202002013_109,RNAseq 109,type
+MOp-Non-Neural-VLMC-VLMC_7,VLMC_7,MOp-Non-Neural-VLMC,#535948,CS202002013_110,RNAseq 110,type
+MOp-Non-Neural-SMC-SMC,SMC,MOp-Non-Neural-SMC,#A6906F,CS202002013_111,RNAseq 111,type
+MOp-Non-Neural-Peri-Peri,Peri,MOp-Non-Neural-Peri,#A77C70,CS202002013_112,RNAseq 112,type
+MOp-Non-Neural-Micro-PVM-Micro,Micro,MOp-Non-Neural-Micro-PVM,#6E7C6F,CS202002013_113,RNAseq 113,type
+MOp-Non-Neural-Micro-PVM-PVM_1,PVM_1,MOp-Non-Neural-Micro-PVM,#8BA38D,CS202002013_114,RNAseq 114,type
+MOp-Non-Neural-Micro-PVM-PVM_2,PVM_2,MOp-Non-Neural-Micro-PVM,#73967F,CS202002013_115,RNAseq 115,type
+MOp-Non-Neural-Micro-PVM-PVM_3,PVM_3,MOp-Non-Neural-Micro-PVM,#709F6D,CS202002013_116,RNAseq 116,type
